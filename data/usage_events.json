@@ -1,0 +1,5502 @@
+[
+  {
+    "event_id": "475d1745-ef2e-460a-ae02-449881dd7e68",
+    "customerId": "f8c85f03-fe63-41ed-bda0-45de8f3c0e33",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-13T13:33:45Z",
+    "session_duration_s": 2189,
+    "properties": {
+      "page": "posts/wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "6f9e9870-c4cc-40f4-8567-4c0ef592de96",
+    "customerId": "115ef152-02b4-4f8a-9943-3fc507079ed7",
+    "event_type": "export",
+    "timestamp": "2026-01-01T02:37:40Z",
+    "session_duration_s": 2867,
+    "properties": {
+      "page": "blog",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "edaaaffa-2170-4e05-bb93-6a8d132dc771",
+    "customerId": "7583fd1d-8491-4e50-b5ce-f4dd1a87ad9a",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-18T14:12:06Z",
+    "session_duration_s": 3098,
+    "properties": {
+      "page": "tags/blog/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "3fe95ca8-33a6-49a1-8e46-e848368adf77",
+    "customerId": "81326f78-0ef1-4e56-bfa7-3831843d4424",
+    "event_type": "login",
+    "timestamp": "2026-01-03T17:40:52Z",
+    "session_duration_s": 1678,
+    "properties": {
+      "page": "categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "efde6f40-6165-46d7-86e8-3401535906fa",
+    "customerId": "27fa87f5-556a-4350-ac6f-0a5f22dfa038",
+    "event_type": "login",
+    "timestamp": "2026-01-23T12:37:04Z",
+    "session_duration_s": 1546,
+    "properties": {
+      "page": "tags/blog/app",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "baf5bf0c-5787-4c33-b5a8-4307d3894cc3",
+    "customerId": "b64f873f-6ad0-4df3-8f89-b0e33d5fdfa6",
+    "event_type": "export",
+    "timestamp": "2026-03-05T18:12:28Z",
+    "session_duration_s": 1939,
+    "properties": {
+      "page": "category/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "68f64bb7-07d7-4d47-b5ba-3a09884af8f0",
+    "customerId": "9bd6f1a3-e0d7-46f3-bcd3-38c42e033da1",
+    "event_type": "login",
+    "timestamp": "2026-02-20T16:59:56Z",
+    "session_duration_s": 1632,
+    "properties": {
+      "page": "category/tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "d311218a-2b16-4d64-bb09-8e5fd71a4ff5",
+    "customerId": "3dda2cd1-8d97-45c0-853c-47a5e7b2cac0",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-15T17:05:26Z",
+    "session_duration_s": 56,
+    "properties": {
+      "page": "list/wp-content/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "1f8b9e29-f805-447f-a92d-05fdfdb78caa",
+    "customerId": "77ce4800-5bf9-4429-8b73-4d2ebd398c27",
+    "event_type": "login",
+    "timestamp": "2026-03-25T13:29:19Z",
+    "session_duration_s": 1343,
+    "properties": {
+      "page": "posts/list/categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "e5f21628-08d7-46aa-adcd-fd62a6f0e45c",
+    "customerId": "9f624df4-c090-40a3-a198-21c2110495da",
+    "event_type": "page_view",
+    "timestamp": "2026-02-28T05:35:30Z",
+    "session_duration_s": 2826,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a39dbe0a-83ee-46f9-94b0-87eee53dc6a1",
+    "customerId": "2a97d0d7-49af-4222-96f9-2d0fef9f6294",
+    "event_type": "page_view",
+    "timestamp": "2026-03-01T14:50:41Z",
+    "session_duration_s": 1399,
+    "properties": {
+      "page": "blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "f4b65146-0829-4f2b-86b1-3070aa88cb35",
+    "customerId": "d624e604-c301-4bbc-8da7-a5fee3bfbf87",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-21T11:01:39Z",
+    "session_duration_s": 204,
+    "properties": {
+      "page": "list/app",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "32d9f5e2-d5db-4981-914c-6cab7e6cbc91",
+    "customerId": "1fae845f-7224-4ca5-b57c-7386ebb1392d",
+    "event_type": "login",
+    "timestamp": "2026-03-23T21:02:40Z",
+    "session_duration_s": 875,
+    "properties": {
+      "page": "wp-content/blog",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "98da8f86-38ac-4df8-8825-3b2ae2586956",
+    "customerId": "98cccb01-bb6f-4440-8e85-09c6561fca38",
+    "event_type": "page_view",
+    "timestamp": "2026-03-14T21:42:05Z",
+    "session_duration_s": 1829,
+    "properties": {
+      "page": "tag/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "86e33f11-db91-40c4-8970-5a53842c739c",
+    "customerId": "6c7ecfef-9b5b-4190-8ed6-d9f2279ec67c",
+    "event_type": "export",
+    "timestamp": "2026-03-18T11:25:27Z",
+    "session_duration_s": 1830,
+    "properties": {
+      "page": "search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "228550d6-40da-4074-83de-ea78d4002883",
+    "customerId": "6c1f1451-3254-49bb-9d06-45738f16b377",
+    "event_type": "page_view",
+    "timestamp": "2026-02-06T04:25:34Z",
+    "session_duration_s": 3234,
+    "properties": {
+      "page": "app/tag/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "d7b5a05f-5379-48c8-8a52-2af002d3bffe",
+    "customerId": "ab567d74-6a93-48e5-b05d-8be9b14b5b6d",
+    "event_type": "export",
+    "timestamp": "2026-03-29T17:22:38Z",
+    "session_duration_s": 1834,
+    "properties": {
+      "page": "category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "3331b75a-91eb-4db1-87f0-571132a3fed9",
+    "customerId": "dfe4dcf3-103c-4a17-8311-7ca855325983",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-21T00:46:40Z",
+    "session_duration_s": 1236,
+    "properties": {
+      "page": "search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "adc3acef-0531-423e-b03e-ea69c09563f2",
+    "customerId": "8b3b2deb-2b4f-4520-94c8-18ab7b110b5e",
+    "event_type": "page_view",
+    "timestamp": "2026-01-14T06:11:37Z",
+    "session_duration_s": 1605,
+    "properties": {
+      "page": "tag/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "632a6fb0-8d30-4f1c-bd2b-3ec985abeab5",
+    "customerId": "3d693de3-f67d-403e-9109-fdfc7836924a",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-18T13:02:20Z",
+    "session_duration_s": 2570,
+    "properties": {
+      "page": "tag/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "50ca6bd5-9c9c-4f4d-a38a-ed3476459a2b",
+    "customerId": "0fb23229-7964-46bf-ab4b-eac43b2064c7",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-21T00:47:11Z",
+    "session_duration_s": 138,
+    "properties": {
+      "page": "blog/category/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "09a5e37f-b9e3-4907-a009-8d7328bc97f1",
+    "customerId": "62bae5f8-d8ba-49cb-a565-d271f91c83b4",
+    "event_type": "login",
+    "timestamp": "2026-03-14T22:39:13Z",
+    "session_duration_s": 995,
+    "properties": {
+      "page": "list/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "951c6382-151d-4745-980a-50b1d8f29407",
+    "customerId": "0cd3598f-5c7e-4337-9251-ca634678cba2",
+    "event_type": "page_view",
+    "timestamp": "2026-02-06T06:14:03Z",
+    "session_duration_s": 2511,
+    "properties": {
+      "page": "main",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "a90e1e67-2da6-4da7-8902-0b0089238b89",
+    "customerId": "5d36101b-e816-4c70-9f95-409adb64ac6a",
+    "event_type": "login",
+    "timestamp": "2026-03-26T07:34:23Z",
+    "session_duration_s": 597,
+    "properties": {
+      "page": "main/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "87c092b9-e366-40e6-99de-56d1263d3851",
+    "customerId": "d1700199-dd38-4a7a-b91e-9a6415fed33b",
+    "event_type": "login",
+    "timestamp": "2026-03-04T16:07:13Z",
+    "session_duration_s": 337,
+    "properties": {
+      "page": "main/blog/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "5410c75c-ca88-4d90-801f-90ad09006326",
+    "customerId": "6a7d24f3-02b5-4470-ab06-71650bb7cc10",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-24T18:14:52Z",
+    "session_duration_s": 2922,
+    "properties": {
+      "page": "tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "6f0f8670-af33-46ed-b536-f07f41652f49",
+    "customerId": "424449b5-ff42-4bc1-a79c-9298e05adfa4",
+    "event_type": "login",
+    "timestamp": "2026-02-03T22:15:02Z",
+    "session_duration_s": 1329,
+    "properties": {
+      "page": "tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "0eea0c10-f47d-464c-bc1b-99e207087b5e",
+    "customerId": "6c65f18a-7e3d-495b-937d-50c377382181",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-05T15:36:56Z",
+    "session_duration_s": 978,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "b3ccc7a7-02cf-4783-94c5-34633d4e494f",
+    "customerId": "853cc1ed-afff-4c22-9452-815d98f99a9b",
+    "event_type": "page_view",
+    "timestamp": "2026-02-15T18:38:02Z",
+    "session_duration_s": 1791,
+    "properties": {
+      "page": "search/main/posts",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "a722d90c-752c-4bbe-9dde-24d9aa7e1d49",
+    "customerId": "77b81076-a8e2-411c-b77e-6ebc37762f61",
+    "event_type": "login",
+    "timestamp": "2026-01-08T20:26:50Z",
+    "session_duration_s": 1805,
+    "properties": {
+      "page": "search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "5c62f1b4-c4c1-481e-8aaa-cbd377567ef4",
+    "customerId": "c5f81b2a-beac-48f7-908f-844a33ebaf68",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-31T11:04:09Z",
+    "session_duration_s": 1860,
+    "properties": {
+      "page": "categories/list/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "98a1ad6c-cd4e-4d9c-aa7b-2fdc36241206",
+    "customerId": "d46d2881-17dd-4a65-bd35-b976e7894561",
+    "event_type": "export",
+    "timestamp": "2026-03-19T18:53:04Z",
+    "session_duration_s": 899,
+    "properties": {
+      "page": "posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "b6567816-fbea-4efe-a9ba-81fddeeec4aa",
+    "customerId": "0d086ec9-58a2-48d3-b059-e11c7074480a",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-21T08:47:16Z",
+    "session_duration_s": 1063,
+    "properties": {
+      "page": "posts/explore/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "02f7b96a-92e5-4836-ac34-cc3228140c4d",
+    "customerId": "fdefd30d-4fdc-4851-823d-6339a24a585b",
+    "event_type": "export",
+    "timestamp": "2026-03-04T16:02:30Z",
+    "session_duration_s": 630,
+    "properties": {
+      "page": "posts/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "3ace14a5-a016-4d6c-bf04-b21d3010a784",
+    "customerId": "cddee54e-0a7a-4ea7-b0bc-d2ce9cec671c",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-01T18:46:11Z",
+    "session_duration_s": 600,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "8b9ad8ec-e0c7-4962-83e0-c2580de2c428",
+    "customerId": "8ee1da7a-01c7-4acf-afb7-c6fd2bb4dd56",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-12T07:17:38Z",
+    "session_duration_s": 1185,
+    "properties": {
+      "page": "category/wp-content/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "a4e3e610-1abd-4708-8118-1f8f03e3a5e9",
+    "customerId": "e2474bde-9fd1-48b2-b196-c99e338b6566",
+    "event_type": "export",
+    "timestamp": "2026-02-08T18:57:30Z",
+    "session_duration_s": 3466,
+    "properties": {
+      "page": "categories/wp-content/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3e05e800-7df0-4f05-b323-80833645ebf1",
+    "customerId": "f469e717-667a-49d2-a00c-b99c2bce3f10",
+    "event_type": "page_view",
+    "timestamp": "2026-02-24T04:27:13Z",
+    "session_duration_s": 1880,
+    "properties": {
+      "page": "posts/app/main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7cb693ef-b690-4e1d-83f5-20d796f67996",
+    "customerId": "3dddc49b-7730-4d41-9511-3bcb37438c90",
+    "event_type": "export",
+    "timestamp": "2026-02-19T22:36:11Z",
+    "session_duration_s": 1716,
+    "properties": {
+      "page": "list/categories/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "f0872152-e291-4cd5-b40a-7754b09e4021",
+    "customerId": "ac4f5b39-7ffd-4c5d-b08c-0cdeb340c045",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-12T07:19:33Z",
+    "session_duration_s": 1631,
+    "properties": {
+      "page": "wp-content/explore/app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "3c5eda74-4708-4eeb-9b5a-675e493d1f05",
+    "customerId": "83058f53-b8c8-42b7-96c3-65dfc70265e9",
+    "event_type": "export",
+    "timestamp": "2026-01-17T02:16:11Z",
+    "session_duration_s": 582,
+    "properties": {
+      "page": "search/search/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "1590ffbf-9c9e-42cd-8496-bad9b37233e4",
+    "customerId": "de527af9-c647-4ebc-b051-0b3b0132d91b",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-26T02:44:33Z",
+    "session_duration_s": 2457,
+    "properties": {
+      "page": "tag/explore/categories",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c2b60ac8-7fe6-4238-9f5d-7f66b26c2dba",
+    "customerId": "6703f695-ab4a-4b8b-b85f-dc0f8c45b970",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-19T12:25:08Z",
+    "session_duration_s": 317,
+    "properties": {
+      "page": "tags/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "821b808d-f49e-4284-9051-2314e1731973",
+    "customerId": "e4d498eb-c80c-44be-b6c0-a27fd6371d36",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-04T07:29:21Z",
+    "session_duration_s": 1881,
+    "properties": {
+      "page": "list/explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "0112423d-2744-43fc-99d7-0ae853c923ff",
+    "customerId": "812f3318-4372-4a30-98d4-d6b370b1ba46",
+    "event_type": "login",
+    "timestamp": "2026-03-28T23:22:07Z",
+    "session_duration_s": 2091,
+    "properties": {
+      "page": "app/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "766da6f5-cacf-49d1-b96c-c33527e0ee85",
+    "customerId": "40bb90f7-d718-4e83-94bd-576fca3802a3",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-15T19:05:19Z",
+    "session_duration_s": 3200,
+    "properties": {
+      "page": "search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "f8fd56b7-60f4-4809-9038-b689354b8240",
+    "customerId": "bbe1b833-f2c9-4cf5-9236-1b33c07e60ca",
+    "event_type": "page_view",
+    "timestamp": "2026-02-07T17:08:20Z",
+    "session_duration_s": 3267,
+    "properties": {
+      "page": "search/tag/tag",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "f8104d30-e971-48d1-8ac8-ce0af07353cb",
+    "customerId": "10c128df-5664-4537-b387-ca3ed8987d82",
+    "event_type": "page_view",
+    "timestamp": "2026-01-20T11:51:41Z",
+    "session_duration_s": 2072,
+    "properties": {
+      "page": "main/tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "256b9b0a-3c1d-4c08-8320-d8579b191a4a",
+    "customerId": "4b216aee-d887-4110-a88f-5551ac7a1a76",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-25T17:35:30Z",
+    "session_duration_s": 542,
+    "properties": {
+      "page": "blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "1c338593-956f-4222-8964-95efe07a63f1",
+    "customerId": "1cf6d339-ffb7-46b3-a7e2-c4b8b76fee0e",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-28T05:07:05Z",
+    "session_duration_s": 3422,
+    "properties": {
+      "page": "blog/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "455dadc8-1113-452c-aac8-784b55353815",
+    "customerId": "952a0498-e93f-414f-ba80-1495342c3330",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-09T13:02:00Z",
+    "session_duration_s": 2965,
+    "properties": {
+      "page": "app/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "c475e182-0261-45ba-92de-49384d8ba1f1",
+    "customerId": "2919cdbf-771e-4d30-942d-62dd1b977827",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-23T21:05:45Z",
+    "session_duration_s": 1313,
+    "properties": {
+      "page": "main/blog/main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "d0770055-4a89-4f82-93a8-3509cba73dd2",
+    "customerId": "3ebc9e9a-de54-44db-b59d-92f3cf6fe366",
+    "event_type": "login",
+    "timestamp": "2026-03-13T14:42:39Z",
+    "session_duration_s": 126,
+    "properties": {
+      "page": "list/tag",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "af36b687-86d7-4d89-a6ff-14174fa8a7e3",
+    "customerId": "dbaf02ce-c0c4-48c9-8ce7-aec9de511491",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-12T02:36:02Z",
+    "session_duration_s": 260,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "9f17a817-6f63-4e4c-9551-faf3424abab6",
+    "customerId": "34f87fcf-8d87-4a6c-bdc5-f766c7d3fef3",
+    "event_type": "login",
+    "timestamp": "2026-03-28T19:58:45Z",
+    "session_duration_s": 3581,
+    "properties": {
+      "page": "tags/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "6a82b2ce-63e9-4440-92fa-e4659cc44d49",
+    "customerId": "54d8dba9-d1dc-4213-a9f7-f39808de43b7",
+    "event_type": "page_view",
+    "timestamp": "2026-03-28T17:06:35Z",
+    "session_duration_s": 236,
+    "properties": {
+      "page": "explore/blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "5062476e-0a95-4f38-9e81-904f07daf5f7",
+    "customerId": "5c732ef4-e09c-448e-88e5-0a7e83e18a06",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-28T12:23:39Z",
+    "session_duration_s": 1023,
+    "properties": {
+      "page": "list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "e32adb84-55d1-4e22-bf87-cef8b4d9e19c",
+    "customerId": "21ac73d8-9b51-4f01-9c95-0e0f08e8179a",
+    "event_type": "export",
+    "timestamp": "2026-03-06T06:27:35Z",
+    "session_duration_s": 2234,
+    "properties": {
+      "page": "app/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "50557fac-d6a6-4a72-af73-bb5779fa97a9",
+    "customerId": "c8b7a83c-d1e2-4c89-979a-308711ba699c",
+    "event_type": "page_view",
+    "timestamp": "2026-02-22T23:56:40Z",
+    "session_duration_s": 2153,
+    "properties": {
+      "page": "tag/search/tags",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "41b9d5db-28b5-4202-877d-ef55b4ba2392",
+    "customerId": "57573b2e-f44c-4588-9df5-6ad4f1d3348f",
+    "event_type": "page_view",
+    "timestamp": "2026-02-05T23:38:38Z",
+    "session_duration_s": 429,
+    "properties": {
+      "page": "search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b692a4d0-ff78-493a-9168-0be78a14c256",
+    "customerId": "81db962d-c436-4112-b2f8-01a8a1e1a29f",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-29T16:04:11Z",
+    "session_duration_s": 1192,
+    "properties": {
+      "page": "explore/main/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "e4137f5f-5282-4b7d-aedf-20e197934f16",
+    "customerId": "24717960-1eff-4773-b853-153d39d6e65d",
+    "event_type": "export",
+    "timestamp": "2026-03-15T09:08:50Z",
+    "session_duration_s": 505,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "f461484a-c1c0-47ac-bc16-339b5df0b03f",
+    "customerId": "0229a72e-5277-4c1e-a74f-ce673888b6ab",
+    "event_type": "page_view",
+    "timestamp": "2026-03-17T01:50:36Z",
+    "session_duration_s": 964,
+    "properties": {
+      "page": "blog/main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "43a108f3-4402-4be5-a856-3567921b6d72",
+    "customerId": "07062c56-47ab-4322-a2e6-581611b66788",
+    "event_type": "export",
+    "timestamp": "2026-01-15T02:03:17Z",
+    "session_duration_s": 3023,
+    "properties": {
+      "page": "app/list/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "942610d0-cb74-46cc-b6dd-123386be777a",
+    "customerId": "94206988-438e-44fe-9db3-24382838b9bf",
+    "event_type": "page_view",
+    "timestamp": "2026-03-04T14:14:40Z",
+    "session_duration_s": 1198,
+    "properties": {
+      "page": "posts/posts/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "28969ab0-5368-4eba-9ce6-eb0a42ebe344",
+    "customerId": "7cd03147-b778-42de-a3a0-df066f6a50f8",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-22T15:08:27Z",
+    "session_duration_s": 2383,
+    "properties": {
+      "page": "tag/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "d78af14c-6514-4299-bba8-713860211202",
+    "customerId": "3c63033f-a1a8-4d63-bf7b-9c400e243149",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-07T11:17:34Z",
+    "session_duration_s": 3484,
+    "properties": {
+      "page": "categories/categories/list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "4ecfdc2f-20fd-460d-876c-8b8ff973e710",
+    "customerId": "32894b41-a2b7-43a4-a884-466be2f150dd",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-24T06:45:04Z",
+    "session_duration_s": 1939,
+    "properties": {
+      "page": "explore/category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c2a9e212-75d2-4b99-963f-2c5bbc589b05",
+    "customerId": "00da1beb-9343-4141-a19c-f580288fc61a",
+    "event_type": "page_view",
+    "timestamp": "2026-01-20T00:38:20Z",
+    "session_duration_s": 2019,
+    "properties": {
+      "page": "posts/list/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a5162d1f-8e25-4428-b539-f7ee726aa14f",
+    "customerId": "75c68180-af6b-43d3-a1a4-520bf8604574",
+    "event_type": "page_view",
+    "timestamp": "2026-01-12T19:25:17Z",
+    "session_duration_s": 2698,
+    "properties": {
+      "page": "search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b17ace51-4f33-4a4e-89cc-1ac536407b7a",
+    "customerId": "85e98a91-2276-4b86-a3da-e1a0b328e45e",
+    "event_type": "export",
+    "timestamp": "2026-03-28T13:09:36Z",
+    "session_duration_s": 2969,
+    "properties": {
+      "page": "main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "94f13e46-209d-43db-b82a-f408754736b5",
+    "customerId": "9572845a-c7aa-4be7-a784-0f356fa6a682",
+    "event_type": "page_view",
+    "timestamp": "2026-01-18T04:35:49Z",
+    "session_duration_s": 1936,
+    "properties": {
+      "page": "main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "211209f2-3d3a-4e9b-a5cc-8525e839b38a",
+    "customerId": "ef7e65ba-6f3f-4f1a-b99e-cde8c7645ef1",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-24T16:08:17Z",
+    "session_duration_s": 858,
+    "properties": {
+      "page": "posts/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c8f53e2a-3dc9-4f9b-9292-bdbcd1c2d231",
+    "customerId": "400759d2-2e0a-4e95-9657-4e0c660a9ef9",
+    "event_type": "export",
+    "timestamp": "2026-02-19T23:37:51Z",
+    "session_duration_s": 1255,
+    "properties": {
+      "page": "category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c448c587-aa49-473a-b104-420d1b01885e",
+    "customerId": "51c3d749-c876-4697-b2de-0fe26b376e1c",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-05T11:47:46Z",
+    "session_duration_s": 2512,
+    "properties": {
+      "page": "tag/category/wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "15c2a294-1131-458e-b769-8f2d6a07e6ff",
+    "customerId": "7af07efe-4b94-4c00-bdf3-c173ddef5ccb",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-28T03:02:58Z",
+    "session_duration_s": 825,
+    "properties": {
+      "page": "category/main/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "7e3412ff-534c-40ee-b7e0-28982e7259fe",
+    "customerId": "02559dd5-455d-4425-a9a0-e48b1937a904",
+    "event_type": "page_view",
+    "timestamp": "2026-02-08T23:53:05Z",
+    "session_duration_s": 2008,
+    "properties": {
+      "page": "blog/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "0b7fcee3-5905-4c10-ab2c-4543d92aa11c",
+    "customerId": "e903432e-39ed-4620-9af7-57b478bc69bf",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-15T11:40:49Z",
+    "session_duration_s": 919,
+    "properties": {
+      "page": "wp-content/category/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "45c7c5de-b5ba-4089-81b9-520234f58f8d",
+    "customerId": "64d0a2d8-4c98-49cb-9254-37b7a766b859",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-06T04:35:57Z",
+    "session_duration_s": 1878,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "e1307ca7-38f9-48ac-a3d8-8ed13762ba57",
+    "customerId": "2c4bb4ae-6d9a-4a82-9eb6-0d6b94ecc0cb",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-15T08:09:53Z",
+    "session_duration_s": 2209,
+    "properties": {
+      "page": "tags/app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "7ff001a7-64a0-4de1-a634-afd4fca0b745",
+    "customerId": "0af37c9b-d331-4f47-90a0-71a707b5999f",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-08T09:22:20Z",
+    "session_duration_s": 2583,
+    "properties": {
+      "page": "list/app/tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "61aa7fa6-dbe9-40fc-a7dc-bdd7b2fc2274",
+    "customerId": "a7a999a3-9e6c-4cd8-af17-74aba6f8c03b",
+    "event_type": "page_view",
+    "timestamp": "2026-01-04T13:51:25Z",
+    "session_duration_s": 781,
+    "properties": {
+      "page": "main/search/tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "f63ae169-48ba-478f-9400-3c1963171ec6",
+    "customerId": "643087fc-0951-4575-ae28-0e45cd114dcd",
+    "event_type": "login",
+    "timestamp": "2026-01-18T03:46:48Z",
+    "session_duration_s": 1705,
+    "properties": {
+      "page": "app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "ff7f006a-5aca-41ea-95be-78317511d3f0",
+    "customerId": "4b3da501-9021-421c-aa21-169c1d43596b",
+    "event_type": "page_view",
+    "timestamp": "2026-02-11T20:49:37Z",
+    "session_duration_s": 1878,
+    "properties": {
+      "page": "categories/app/blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "a0de5c2d-17a6-4c5f-8a90-e79146c6dd87",
+    "customerId": "20826db1-0fec-4e59-b106-37623c7c1912",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-08T18:14:16Z",
+    "session_duration_s": 3276,
+    "properties": {
+      "page": "tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "e1716589-d5da-4e6f-a2a4-82f99f85fc86",
+    "customerId": "07457108-8364-41b2-a6c1-8c9b5e4e05f8",
+    "event_type": "page_view",
+    "timestamp": "2026-01-25T19:41:03Z",
+    "session_duration_s": 3585,
+    "properties": {
+      "page": "categories/category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "4af807e7-b4ca-4990-9f64-746f68975ca9",
+    "customerId": "30158e4a-a420-44e4-b3ef-b30ee9ee6c13",
+    "event_type": "export",
+    "timestamp": "2026-01-21T09:27:03Z",
+    "session_duration_s": 2756,
+    "properties": {
+      "page": "list/blog/app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "6c429ce8-2a2b-4c6b-a327-a0097616d29f",
+    "customerId": "c4802678-7ccc-4c71-a62a-34e3a38aef76",
+    "event_type": "login",
+    "timestamp": "2026-03-06T09:27:58Z",
+    "session_duration_s": 1857,
+    "properties": {
+      "page": "app/wp-content/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "d5fe06f4-9054-4130-9934-20b9f5c5bdbc",
+    "customerId": "22443d49-495f-4c78-a71f-e1780ccef66f",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-25T14:05:43Z",
+    "session_duration_s": 653,
+    "properties": {
+      "page": "explore/tag/categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "99a802ac-3a1c-4bac-9a47-dbd4257d1bb5",
+    "customerId": "24ce13e9-989a-48f3-b3cb-d7c4b6fc1863",
+    "event_type": "login",
+    "timestamp": "2026-01-26T09:27:35Z",
+    "session_duration_s": 2090,
+    "properties": {
+      "page": "list/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "7caf4ff7-cf4c-4773-9ae8-de97b6a44d84",
+    "customerId": "f49cbffa-1ffa-48d4-9ae4-b412b8ccf0e4",
+    "event_type": "page_view",
+    "timestamp": "2026-02-20T04:42:53Z",
+    "session_duration_s": 1694,
+    "properties": {
+      "page": "search/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "f6c57737-c56d-4158-9cc8-a4315f90a369",
+    "customerId": "211690ca-21c2-442c-bf00-57aedd22c9ec",
+    "event_type": "login",
+    "timestamp": "2026-02-08T12:59:54Z",
+    "session_duration_s": 120,
+    "properties": {
+      "page": "categories/tags/explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "be98b5ed-43b3-4813-bae3-81bd3164ba97",
+    "customerId": "522bc404-c804-4ba6-9c79-f6ddf789eed2",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-14T04:58:57Z",
+    "session_duration_s": 1512,
+    "properties": {
+      "page": "app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "babf5a49-cc80-407f-8065-641cf20a3cd0",
+    "customerId": "8f60858d-cb4c-4f96-b0db-2d78dbaffda5",
+    "event_type": "page_view",
+    "timestamp": "2026-02-06T11:53:51Z",
+    "session_duration_s": 3068,
+    "properties": {
+      "page": "explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "5b4026ad-fbf1-4407-ab54-1f89b12c31bc",
+    "customerId": "af20a529-ba8d-4674-82a9-a45b1e665f8f",
+    "event_type": "login",
+    "timestamp": "2026-03-21T14:34:41Z",
+    "session_duration_s": 570,
+    "properties": {
+      "page": "tag/main/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "084ee9fe-9f44-4f0a-8410-3da7f29b260f",
+    "customerId": "a0845385-4ad5-4735-831c-c89b2fb309d0",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-27T07:13:38Z",
+    "session_duration_s": 2192,
+    "properties": {
+      "page": "app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "c765483d-27ef-44eb-acb0-299457cd9eeb",
+    "customerId": "5d7cfab0-10bf-4c9d-8702-61c1ad6847ad",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-13T09:56:15Z",
+    "session_duration_s": 1230,
+    "properties": {
+      "page": "list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "0730d1d1-3037-4518-ae86-7adb192e10fd",
+    "customerId": "62e29fe9-4ceb-4220-a684-03dc21866976",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-06T04:52:42Z",
+    "session_duration_s": 1033,
+    "properties": {
+      "page": "blog/search/main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b8e19df3-363c-422d-9513-05deea07f66c",
+    "customerId": "806408ac-4016-442e-8265-772ca92026b0",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-29T15:04:48Z",
+    "session_duration_s": 2451,
+    "properties": {
+      "page": "explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "42132b4c-ea40-4631-8f2a-bff1b44574a9",
+    "customerId": "7ec5bd59-9c7e-4c80-b878-42846f911a99",
+    "event_type": "login",
+    "timestamp": "2026-01-06T06:23:16Z",
+    "session_duration_s": 488,
+    "properties": {
+      "page": "search/posts/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "d4126e1c-c809-44ca-b6da-f03d3327cc08",
+    "customerId": "b61409a2-45b7-41d2-a3e3-6fe12c12697e",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-01T14:16:24Z",
+    "session_duration_s": 2046,
+    "properties": {
+      "page": "wp-content/app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "0b49e649-975e-4bb1-bd66-737c9f7d5fc6",
+    "customerId": "b26cbe16-e9a3-477d-9256-14d557bb3d41",
+    "event_type": "login",
+    "timestamp": "2026-01-24T11:28:00Z",
+    "session_duration_s": 2437,
+    "properties": {
+      "page": "blog/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "31251651-280e-44c4-b2f9-2101cccec438",
+    "customerId": "bcff872e-0220-48fb-910a-a9218eda7906",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-20T16:56:03Z",
+    "session_duration_s": 389,
+    "properties": {
+      "page": "tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "ea838f08-33e6-4196-b6c9-0f030d22fdc5",
+    "customerId": "c0afcfc2-08b2-45a9-883b-a1df19a22c53",
+    "event_type": "login",
+    "timestamp": "2026-02-28T16:12:04Z",
+    "session_duration_s": 948,
+    "properties": {
+      "page": "list/wp-content/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "32ec4b42-f270-4b55-850a-0b8c21c934cb",
+    "customerId": "87a3093f-f6cb-45c8-875a-0e1cb98af53b",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-11T23:04:51Z",
+    "session_duration_s": 1135,
+    "properties": {
+      "page": "app/list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "70ce1609-1f1f-4e45-86df-7a68c6b46a54",
+    "customerId": "fff50e76-c3fa-4948-896e-6de3e3873621",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-08T07:31:47Z",
+    "session_duration_s": 1506,
+    "properties": {
+      "page": "tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "235c7d96-e153-4200-bde1-52944c25af98",
+    "customerId": "601471ad-b6f0-4186-9339-331def523e3e",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-13T13:15:47Z",
+    "session_duration_s": 1246,
+    "properties": {
+      "page": "posts/tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "376f0944-8330-43cb-a1f1-5e0997ae938e",
+    "customerId": "f34dc79f-8bbb-4696-a276-09775f0f97cc",
+    "event_type": "page_view",
+    "timestamp": "2026-03-24T02:22:10Z",
+    "session_duration_s": 1291,
+    "properties": {
+      "page": "tag/wp-content/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "5bd2ccc6-68ec-4105-a342-4cf50ddaaab2",
+    "customerId": "97d5b459-f01e-48d0-abe9-f8b622ac2726",
+    "event_type": "page_view",
+    "timestamp": "2026-01-02T22:17:26Z",
+    "session_duration_s": 1203,
+    "properties": {
+      "page": "app/category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "f5e4fde1-5fd9-44e6-902d-03bbde6b532c",
+    "customerId": "03ace685-c2e6-4ba8-9ae6-864af3b5d139",
+    "event_type": "login",
+    "timestamp": "2026-01-10T12:04:24Z",
+    "session_duration_s": 235,
+    "properties": {
+      "page": "tag/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c92d5fbd-a07f-49e3-98e4-f5905ebed816",
+    "customerId": "d685bf2d-fe51-4dc7-bd64-d7bae701ab95",
+    "event_type": "export",
+    "timestamp": "2026-01-11T08:40:42Z",
+    "session_duration_s": 3277,
+    "properties": {
+      "page": "categories/explore/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "1333c2ef-9d08-4ef0-951d-1807a85c8c5a",
+    "customerId": "cc70f7be-e796-4ecd-81fd-8b5ba1df8174",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-18T02:49:50Z",
+    "session_duration_s": 1891,
+    "properties": {
+      "page": "wp-content/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "092dc7f5-af3a-42b7-b1cf-4d11268d631e",
+    "customerId": "db93b321-5203-4792-b88e-c32eee5bc7f4",
+    "event_type": "export",
+    "timestamp": "2026-01-11T05:50:01Z",
+    "session_duration_s": 3479,
+    "properties": {
+      "page": "list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "0225aa0c-7f18-4bec-8394-1df9d0dfa063",
+    "customerId": "f55bb541-909b-4ea3-b9ad-3bca5f7fd16f",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-20T20:55:27Z",
+    "session_duration_s": 1171,
+    "properties": {
+      "page": "posts/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "b953b27e-1e66-4a70-a61e-14286617bea0",
+    "customerId": "cf9eb22a-992e-48cd-a82e-6c824d8052b0",
+    "event_type": "login",
+    "timestamp": "2026-02-12T15:44:00Z",
+    "session_duration_s": 1315,
+    "properties": {
+      "page": "posts/category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "127bd475-3c61-45cc-bb14-63c30b2c838d",
+    "customerId": "e05d1834-5b87-4acd-b0b7-a4fd9ee76282",
+    "event_type": "page_view",
+    "timestamp": "2026-01-12T21:05:34Z",
+    "session_duration_s": 527,
+    "properties": {
+      "page": "posts/list/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "a46dfa33-5ee3-4123-a152-53d8f0843fdb",
+    "customerId": "02350918-d2b5-4766-8853-8a5b59bafb2c",
+    "event_type": "page_view",
+    "timestamp": "2026-03-11T12:32:46Z",
+    "session_duration_s": 2144,
+    "properties": {
+      "page": "list/wp-content/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "4758daf9-cc64-4979-a7d7-c375e91292f3",
+    "customerId": "40c1f70b-aef5-41a9-b4c2-25fe7c3a7186",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-07T04:13:53Z",
+    "session_duration_s": 3113,
+    "properties": {
+      "page": "tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3aeadf0d-10c7-4c84-8af5-f81869f38272",
+    "customerId": "7d91a687-de4b-4917-a3ab-acb292667cf2",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-10T16:37:25Z",
+    "session_duration_s": 2023,
+    "properties": {
+      "page": "tag/wp-content/explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "0aa26f53-da4d-4647-832c-80ceb5145ab6",
+    "customerId": "2f2ac5bf-a0a4-4cb6-ae54-7787d5c36e39",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-09T23:25:50Z",
+    "session_duration_s": 2130,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "35c10afe-1f60-4432-9d18-3a2c8d70da35",
+    "customerId": "206ac078-6d50-4776-81de-d8b9642cab59",
+    "event_type": "login",
+    "timestamp": "2026-03-13T23:21:46Z",
+    "session_duration_s": 2302,
+    "properties": {
+      "page": "categories/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "e9e9b23c-9a3d-44ec-9942-28eed9e971e4",
+    "customerId": "da76a4b2-b1d9-4ada-9f80-bfc3500cc89d",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-20T19:43:29Z",
+    "session_duration_s": 2745,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "a5124a01-6d45-41af-88e1-f7c882db744c",
+    "customerId": "53c623ae-67b9-4d07-bb6c-f789eb1ab18f",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-11T05:17:34Z",
+    "session_duration_s": 3012,
+    "properties": {
+      "page": "list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "cb9e6108-8aad-4ffa-84a7-85c58e1d29e0",
+    "customerId": "a59dec9f-9ac5-4a7a-8cdb-8d19d8d1dae3",
+    "event_type": "login",
+    "timestamp": "2026-01-23T19:48:22Z",
+    "session_duration_s": 2554,
+    "properties": {
+      "page": "explore/search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "1fd90037-70f3-4d09-9bc7-583ffa7b941f",
+    "customerId": "41c4c12e-7dc1-4764-82b9-1de29dcc96a5",
+    "event_type": "login",
+    "timestamp": "2026-03-07T23:32:59Z",
+    "session_duration_s": 1825,
+    "properties": {
+      "page": "search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "490140b3-9592-419a-852d-68eec7b2c094",
+    "customerId": "dc076036-50db-48ec-8874-aaf4cc77400e",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-02T00:27:32Z",
+    "session_duration_s": 1750,
+    "properties": {
+      "page": "tags/categories/explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "eabbcdda-8171-478f-a4f3-0e3d581beb6b",
+    "customerId": "a87cf201-373d-47d6-a5ec-d9bec5333c76",
+    "event_type": "login",
+    "timestamp": "2026-03-06T06:02:12Z",
+    "session_duration_s": 1720,
+    "properties": {
+      "page": "wp-content/search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "7edb016f-a8bf-4f06-8763-6beed3c657f2",
+    "customerId": "3863b715-8125-47f1-b39d-5fe41eacf772",
+    "event_type": "page_view",
+    "timestamp": "2026-03-19T02:43:44Z",
+    "session_duration_s": 1445,
+    "properties": {
+      "page": "explore/main",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "7651f5aa-5e0e-4d6b-a277-fe1db64d404f",
+    "customerId": "b97c9eb0-a115-4b7a-91e3-8ede9da1248e",
+    "event_type": "login",
+    "timestamp": "2026-01-01T12:03:46Z",
+    "session_duration_s": 2692,
+    "properties": {
+      "page": "categories/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "03cc605c-2a77-43e0-a776-29fa037999a2",
+    "customerId": "63799a2e-99b5-4999-ae88-ece74baa43c5",
+    "event_type": "login",
+    "timestamp": "2026-03-20T04:28:57Z",
+    "session_duration_s": 1752,
+    "properties": {
+      "page": "blog/explore/tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "2cdebbc3-53e8-4bc6-bfde-a90c26b1b01e",
+    "customerId": "d574f31b-5a2d-4d1c-a39d-86dcce5e37ab",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-05T14:58:27Z",
+    "session_duration_s": 1577,
+    "properties": {
+      "page": "explore/posts/tag",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "2b82f940-043a-42de-ad1a-28a6f5e68422",
+    "customerId": "65b4d2c6-c9bd-4bc0-a2ba-0067516516fa",
+    "event_type": "export",
+    "timestamp": "2026-02-07T16:49:14Z",
+    "session_duration_s": 2764,
+    "properties": {
+      "page": "main/search/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "5878e56c-ae35-440a-b768-ee4794822b51",
+    "customerId": "f9e1ebe1-a848-4378-ab29-787aebb3c0e0",
+    "event_type": "export",
+    "timestamp": "2026-03-05T12:04:57Z",
+    "session_duration_s": 2339,
+    "properties": {
+      "page": "list/main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b3fbed6a-924f-4517-90aa-4fbf806c52c1",
+    "customerId": "25ffe3b0-9adb-4996-93be-311590f0ea58",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-03T23:55:57Z",
+    "session_duration_s": 1263,
+    "properties": {
+      "page": "blog",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "a174a657-7203-4e1d-be15-1442565c2214",
+    "customerId": "f3fccd3b-a8e5-4eec-b063-005f69aa8e1e",
+    "event_type": "page_view",
+    "timestamp": "2026-02-05T04:10:58Z",
+    "session_duration_s": 1485,
+    "properties": {
+      "page": "explore/categories/category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "1138bd0a-01d5-4c80-a4e7-be353ffe35ee",
+    "customerId": "1718b92a-72d1-41af-9b3c-0abeeb8b5af7",
+    "event_type": "login",
+    "timestamp": "2026-01-27T13:35:45Z",
+    "session_duration_s": 907,
+    "properties": {
+      "page": "posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "397b2711-12ad-489a-964c-3bb0a9d2d68c",
+    "customerId": "5f3db5e6-5f75-4103-a9fc-026ed35038ee",
+    "event_type": "login",
+    "timestamp": "2026-03-20T09:07:10Z",
+    "session_duration_s": 2264,
+    "properties": {
+      "page": "tag/blog/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "eff46d37-b315-46a0-ba13-4a9699c45023",
+    "customerId": "996ac198-7fa9-4173-afae-2653a0d23330",
+    "event_type": "export",
+    "timestamp": "2026-02-24T23:56:32Z",
+    "session_duration_s": 83,
+    "properties": {
+      "page": "posts/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "1a8ce45b-7675-4d84-968f-46213c0fdb02",
+    "customerId": "a0580bab-16e9-476b-b488-fdfbd1a79a5e",
+    "event_type": "page_view",
+    "timestamp": "2026-01-14T19:59:46Z",
+    "session_duration_s": 3203,
+    "properties": {
+      "page": "tags/search/blog",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ff169b58-e668-47ba-8fb5-cf7b8fde5697",
+    "customerId": "b86c003c-ebf9-4303-a62a-f069c4853ee8",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-09T02:11:03Z",
+    "session_duration_s": 145,
+    "properties": {
+      "page": "tag/tags",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "85e1f042-4407-4be5-90c7-ec9ee7e0ae3c",
+    "customerId": "4816ce98-a718-4c81-98bc-3ae6abd23c3d",
+    "event_type": "export",
+    "timestamp": "2026-01-03T02:50:51Z",
+    "session_duration_s": 1173,
+    "properties": {
+      "page": "list/explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "554cc5af-c4ad-408c-90e0-20e9bd37e584",
+    "customerId": "ffa10069-010f-4dec-9b70-645b31e4a555",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-18T21:16:59Z",
+    "session_duration_s": 2906,
+    "properties": {
+      "page": "search/blog/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "d2227984-8962-48b7-b3c5-7a11f46aa43b",
+    "customerId": "bb0c960e-bb61-42fe-baad-07751c67ca6a",
+    "event_type": "login",
+    "timestamp": "2026-03-07T23:19:53Z",
+    "session_duration_s": 3117,
+    "properties": {
+      "page": "main/tag/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "0fa5453c-f7f7-41ff-8084-f99bf4e2c739",
+    "customerId": "b9a99149-27c2-47e3-bdb9-9b83367c1b3f",
+    "event_type": "login",
+    "timestamp": "2026-02-08T14:25:22Z",
+    "session_duration_s": 126,
+    "properties": {
+      "page": "posts/blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "94f497b8-3424-470a-9f72-fee16f84eae9",
+    "customerId": "88eff6ba-0ef6-4421-8d63-a9ec5050d06c",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-15T20:48:58Z",
+    "session_duration_s": 3416,
+    "properties": {
+      "page": "categories/wp-content/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "bbaa5447-e6e4-485c-a00f-2fd20069127a",
+    "customerId": "89291007-8082-44c5-b4eb-4e439d9d0a76",
+    "event_type": "export",
+    "timestamp": "2026-03-19T20:02:54Z",
+    "session_duration_s": 2147,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "c083de2d-a408-4730-af45-b9656a9dcb31",
+    "customerId": "d0809727-c9c8-4ae5-8935-f7d5f93e4b46",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-16T02:04:05Z",
+    "session_duration_s": 2965,
+    "properties": {
+      "page": "posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "74613ccb-3c75-4105-b1f1-2cdb7f66667c",
+    "customerId": "41e1fdae-86e0-49a3-8aa9-6d4bb48f3728",
+    "event_type": "page_view",
+    "timestamp": "2026-02-04T20:21:26Z",
+    "session_duration_s": 2438,
+    "properties": {
+      "page": "list/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "d9c2a47f-c23f-44ef-b9e6-b48d19c1a10f",
+    "customerId": "57afed31-80b3-47e6-a256-57414e19cc9b",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-08T21:08:57Z",
+    "session_duration_s": 1188,
+    "properties": {
+      "page": "explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "0d5c5d16-ffa7-4930-acc9-85fafdc3eadf",
+    "customerId": "469f5c38-573d-4f74-953d-d831f72c08fd",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-18T20:46:05Z",
+    "session_duration_s": 330,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "575c7783-653d-4e5c-837a-05c066970e9f",
+    "customerId": "582a71bb-d2dd-4533-8df5-6b6b4d53e8a3",
+    "event_type": "export",
+    "timestamp": "2026-02-04T14:58:18Z",
+    "session_duration_s": 597,
+    "properties": {
+      "page": "posts",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "1a203679-e08b-44e4-8f6f-ffea8aef8f5a",
+    "customerId": "5bc160fa-2dc0-4c3e-9d6e-ffd0a4bad9a8",
+    "event_type": "page_view",
+    "timestamp": "2026-01-16T17:29:00Z",
+    "session_duration_s": 1618,
+    "properties": {
+      "page": "posts/explore/posts",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "f8a393c4-94b1-4bc8-b8f7-6f6346aebc47",
+    "customerId": "7b9bda25-8861-4a10-a155-71df934d85bc",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-21T05:48:58Z",
+    "session_duration_s": 1076,
+    "properties": {
+      "page": "categories/tag/blog",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "8bede986-757d-4cec-90b6-9e66493dd1da",
+    "customerId": "d0676f79-d334-4a5f-8896-2def343326b0",
+    "event_type": "export",
+    "timestamp": "2026-03-27T09:03:39Z",
+    "session_duration_s": 419,
+    "properties": {
+      "page": "categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ffafada0-24d5-4f8b-9d29-7abad86f3128",
+    "customerId": "68e9e9df-4205-427b-b681-d6bfaa643946",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-13T11:39:01Z",
+    "session_duration_s": 1384,
+    "properties": {
+      "page": "tag/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3cb5959f-5b37-4b53-ae30-4074dc65ca16",
+    "customerId": "9d4d7542-5c93-4e22-b0f5-5925366d9292",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-21T09:26:50Z",
+    "session_duration_s": 1960,
+    "properties": {
+      "page": "categories/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "81ebc558-2010-461a-bba4-c33b333425f2",
+    "customerId": "1800985e-59a4-4173-be9a-aacd9c341b3e",
+    "event_type": "page_view",
+    "timestamp": "2026-03-15T14:24:49Z",
+    "session_duration_s": 3144,
+    "properties": {
+      "page": "posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "c0682dbf-44ca-4ab7-9d7e-6f37df0c7a78",
+    "customerId": "03ad9a21-7d9c-4c0b-a8fa-e4757ccede50",
+    "event_type": "login",
+    "timestamp": "2026-01-20T17:12:37Z",
+    "session_duration_s": 2693,
+    "properties": {
+      "page": "wp-content/category/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "b821ebd0-22d5-4976-b807-ec6bc6e048d7",
+    "customerId": "d8640884-45b7-49d5-b78e-fb71e57a9d93",
+    "event_type": "export",
+    "timestamp": "2026-01-24T16:38:08Z",
+    "session_duration_s": 391,
+    "properties": {
+      "page": "wp-content/tags/tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3b69a31f-358d-4906-a2d1-a3701529f357",
+    "customerId": "4fb990b7-1e5b-4ede-8597-f158003e39db",
+    "event_type": "page_view",
+    "timestamp": "2026-02-02T14:32:14Z",
+    "session_duration_s": 732,
+    "properties": {
+      "page": "categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "4e489fc7-df2d-4b96-b386-48927338d730",
+    "customerId": "a6d7e35b-4c53-458b-84d0-a648c836bf2e",
+    "event_type": "page_view",
+    "timestamp": "2026-02-08T08:43:26Z",
+    "session_duration_s": 1251,
+    "properties": {
+      "page": "app/list/wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ed3a54bb-63bb-4d12-ba1d-9800fc1ca51d",
+    "customerId": "0e0be9f6-2c79-4016-a6b9-2b8472695a84",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-11T00:22:49Z",
+    "session_duration_s": 1715,
+    "properties": {
+      "page": "search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "7ae4bbe0-a7d4-4ade-8f49-afd9eac3a40f",
+    "customerId": "b050f58f-976e-4a35-8d5d-1b975d58e337",
+    "event_type": "export",
+    "timestamp": "2026-02-18T16:07:14Z",
+    "session_duration_s": 297,
+    "properties": {
+      "page": "categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b18e47bc-d361-460b-a051-b89ece9a61ce",
+    "customerId": "e4b32e56-6dbe-4d4b-a860-4b3c243aabb6",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-31T08:18:37Z",
+    "session_duration_s": 1797,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "e546b749-c29b-453d-a8a8-1fae231d039d",
+    "customerId": "5f9a9986-0959-49d7-a1da-d411d02e7bf4",
+    "event_type": "export",
+    "timestamp": "2026-01-25T23:19:43Z",
+    "session_duration_s": 2462,
+    "properties": {
+      "page": "categories/tags/main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "a7dc8d18-a6b4-40c4-9012-1060c4a08fe9",
+    "customerId": "d702acd7-d394-42b1-ac0f-ba97bbd034f8",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-03T08:18:04Z",
+    "session_duration_s": 1565,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "94289ffa-cffa-4b9d-b4d4-e056717c01c2",
+    "customerId": "f541f4bb-dbfb-451d-b7df-8e420b806fcd",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-09T13:42:07Z",
+    "session_duration_s": 2145,
+    "properties": {
+      "page": "posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "3cb20349-df7c-403c-a6c6-d434471d406a",
+    "customerId": "a0b2bbf2-617c-4f47-9a7c-b86b0963bd04",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-23T04:46:08Z",
+    "session_duration_s": 1638,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "388a2230-2b95-461e-994e-387deebbf8b6",
+    "customerId": "9262b56f-ad3b-456e-9825-654983a48e9e",
+    "event_type": "export",
+    "timestamp": "2026-01-14T19:36:57Z",
+    "session_duration_s": 2283,
+    "properties": {
+      "page": "explore/categories/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "1742356c-cd72-485c-8e2f-05915fc2abf0",
+    "customerId": "cc63d01c-e52a-4a87-bbbd-d3ddebb97c86",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-02T01:42:38Z",
+    "session_duration_s": 1880,
+    "properties": {
+      "page": "list/wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "1d20909a-176b-4f47-82f0-22d907c09411",
+    "customerId": "9b1b741b-8e09-4c2e-a28f-8453dcac7db3",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-08T16:17:50Z",
+    "session_duration_s": 1524,
+    "properties": {
+      "page": "search/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b3337120-1b5a-4ebe-a9cb-592d05d8ea9f",
+    "customerId": "cfeed7fe-2232-444e-ac8f-11760b082072",
+    "event_type": "page_view",
+    "timestamp": "2026-01-21T05:48:33Z",
+    "session_duration_s": 3375,
+    "properties": {
+      "page": "tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "2dcd3a4b-23d8-45f8-a140-7c12ed808644",
+    "customerId": "b0623603-3c71-47df-a88b-76f742829dc4",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-03T19:26:30Z",
+    "session_duration_s": 870,
+    "properties": {
+      "page": "wp-content/main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "93e5c0ba-e5d9-429c-aa94-28ebd96b1fb7",
+    "customerId": "780cbf66-26b5-4abc-90f0-ad3a1e38ac78",
+    "event_type": "export",
+    "timestamp": "2026-02-08T04:29:28Z",
+    "session_duration_s": 2486,
+    "properties": {
+      "page": "tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "ec55e277-c3cf-46dc-98b0-1917c3660cc2",
+    "customerId": "03878633-089a-4479-bf02-1f759930c5da",
+    "event_type": "login",
+    "timestamp": "2026-03-13T07:05:28Z",
+    "session_duration_s": 3167,
+    "properties": {
+      "page": "category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "733204f1-911a-4853-aed1-7e7b6689286f",
+    "customerId": "082b53b9-7c2e-4c2c-9fef-97611a6d8485",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-09T00:55:44Z",
+    "session_duration_s": 1289,
+    "properties": {
+      "page": "list/app/posts",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "f394cbf9-d6ff-473b-8c8c-9ad19406468d",
+    "customerId": "ad9279c1-eb21-4b40-805b-858da2e5a5b1",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-25T06:55:50Z",
+    "session_duration_s": 1124,
+    "properties": {
+      "page": "category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "e1c2bca4-edde-4eae-9d36-f8d222a24c14",
+    "customerId": "3ae973e9-0bb6-4df2-a113-0dde7059731d",
+    "event_type": "login",
+    "timestamp": "2026-01-26T16:21:30Z",
+    "session_duration_s": 3277,
+    "properties": {
+      "page": "category/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "aacab1a8-d496-4a0d-970e-60ad7efe76ca",
+    "customerId": "8ecb9384-92ab-4bef-8161-3781094bd337",
+    "event_type": "export",
+    "timestamp": "2026-01-05T23:45:39Z",
+    "session_duration_s": 2238,
+    "properties": {
+      "page": "category/category/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "8294d2c6-2204-4c2f-a1e5-007c313d9b9a",
+    "customerId": "2fd026c0-df99-41ea-b08d-46800c2d8dc0",
+    "event_type": "login",
+    "timestamp": "2026-01-23T13:47:46Z",
+    "session_duration_s": 552,
+    "properties": {
+      "page": "tags/tags",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "2d73a642-5825-40e2-9bc4-78485aa3869c",
+    "customerId": "f3205d79-c341-4d7b-888a-ceeef79bf277",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-20T09:20:26Z",
+    "session_duration_s": 3582,
+    "properties": {
+      "page": "tag/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "85432a9c-3f8c-4a69-9c3f-7d22aa99732c",
+    "customerId": "42fdf96e-4e79-436a-a88c-cdb8142f9bb3",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-22T14:44:10Z",
+    "session_duration_s": 3299,
+    "properties": {
+      "page": "search/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "788759eb-60b4-4fc4-ba98-ac5490152e23",
+    "customerId": "88646137-1261-4a51-94ac-e92a46bb1d7b",
+    "event_type": "export",
+    "timestamp": "2026-02-09T03:16:27Z",
+    "session_duration_s": 751,
+    "properties": {
+      "page": "wp-content/search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "7c452a90-76e6-4a90-a011-de6df910ddea",
+    "customerId": "6033555f-8ac1-4d3b-9ae2-e88c1b21db2c",
+    "event_type": "page_view",
+    "timestamp": "2026-02-10T12:15:19Z",
+    "session_duration_s": 2015,
+    "properties": {
+      "page": "categories/explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "1d8c7c7f-49ab-4181-bed3-da51f05b48f7",
+    "customerId": "68906049-aaf0-4d22-927d-b6a7a25b840c",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-24T12:10:09Z",
+    "session_duration_s": 31,
+    "properties": {
+      "page": "blog",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "5e90494d-79ab-427e-aed7-879f1e612805",
+    "customerId": "e9a48f04-d134-4303-b94a-76205cccbe42",
+    "event_type": "export",
+    "timestamp": "2026-03-25T16:34:00Z",
+    "session_duration_s": 175,
+    "properties": {
+      "page": "tags/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ddaf712c-dd92-45fb-bf29-cc97b4d76ee1",
+    "customerId": "03c02082-27d8-417e-b564-74e618b67553",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-04T17:55:09Z",
+    "session_duration_s": 3230,
+    "properties": {
+      "page": "posts/blog/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "ad053b98-4128-420e-b8fe-b162cef8f096",
+    "customerId": "7472d710-be51-4981-807c-8f109d6fce62",
+    "event_type": "page_view",
+    "timestamp": "2026-01-13T03:50:32Z",
+    "session_duration_s": 2289,
+    "properties": {
+      "page": "tag/tag/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "f814b4dd-ddfd-407d-bb04-4a85c767e56c",
+    "customerId": "deccf00a-48dc-4f64-ae0c-f7c889fcd886",
+    "event_type": "page_view",
+    "timestamp": "2026-03-31T04:13:53Z",
+    "session_duration_s": 985,
+    "properties": {
+      "page": "wp-content/posts/search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "4359cb8e-696d-4696-894b-deb3f4a395b2",
+    "customerId": "6f142f88-5668-43ad-ae64-034d28235966",
+    "event_type": "login",
+    "timestamp": "2026-03-19T02:14:20Z",
+    "session_duration_s": 157,
+    "properties": {
+      "page": "tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c0376c06-3399-4bc8-b3f6-fb6a4edf9ffd",
+    "customerId": "0c1d7227-e93c-4915-a09d-50ca60e2b750",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-25T05:30:19Z",
+    "session_duration_s": 3457,
+    "properties": {
+      "page": "blog/posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "2812d7d7-999e-417f-bdc9-9fc408286718",
+    "customerId": "01f6fd57-e255-426f-96fd-eef0e4bf309e",
+    "event_type": "page_view",
+    "timestamp": "2026-01-08T07:15:17Z",
+    "session_duration_s": 1829,
+    "properties": {
+      "page": "blog/search/tag",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "74bc7162-e298-4c5d-bdc9-397697928e22",
+    "customerId": "75f1ad4f-acea-4124-bc8d-a6b71d6b7706",
+    "event_type": "page_view",
+    "timestamp": "2026-01-09T01:55:25Z",
+    "session_duration_s": 971,
+    "properties": {
+      "page": "posts/blog/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "09d5c0f4-17aa-4492-b65f-21d72e3ded7b",
+    "customerId": "033d028c-25a1-4eae-a71b-60abf23a50ce",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-15T11:45:43Z",
+    "session_duration_s": 2752,
+    "properties": {
+      "page": "categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "59baa790-6f0f-4c72-9c18-e02ba698ccca",
+    "customerId": "18bb4422-98fe-413b-ab02-015df269f766",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-13T19:55:51Z",
+    "session_duration_s": 369,
+    "properties": {
+      "page": "search/wp-content/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "65be59ff-0490-49a8-a481-aafdd0585ad0",
+    "customerId": "c19fa46b-78ff-47bb-ae35-3e7d4c13faab",
+    "event_type": "page_view",
+    "timestamp": "2026-03-07T23:20:10Z",
+    "session_duration_s": 2532,
+    "properties": {
+      "page": "list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "42de31dd-8f0e-4373-a345-effd2fb4aab0",
+    "customerId": "969d3a70-f8d2-4fcf-a693-29fcddef2375",
+    "event_type": "login",
+    "timestamp": "2026-03-10T04:16:23Z",
+    "session_duration_s": 1522,
+    "properties": {
+      "page": "wp-content/posts/main",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "22f30110-b12a-4e0a-8243-d361e73a55d7",
+    "customerId": "c454c093-6a4a-4ef3-a6b4-36e4134b1bac",
+    "event_type": "page_view",
+    "timestamp": "2026-03-24T04:21:52Z",
+    "session_duration_s": 2865,
+    "properties": {
+      "page": "wp-content/main/list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "c24692d8-5a4b-41aa-88cd-b4ad6b8d5fe3",
+    "customerId": "72bcf31d-8652-4e15-a406-5753b34d750d",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-20T07:11:48Z",
+    "session_duration_s": 1636,
+    "properties": {
+      "page": "main/blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "08ca91d2-1b1a-4a08-b233-b6fcd50383c0",
+    "customerId": "43890cee-82c5-46db-b8d9-017571713753",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-07T14:03:04Z",
+    "session_duration_s": 1178,
+    "properties": {
+      "page": "app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "a140d222-82aa-4ff5-891f-23d601a7025b",
+    "customerId": "a11c557f-98df-4007-8147-b254a35aa200",
+    "event_type": "login",
+    "timestamp": "2026-02-10T04:12:22Z",
+    "session_duration_s": 1121,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "abd03dde-fc14-41b2-ad0c-57c34d6ef610",
+    "customerId": "5a036924-fa37-4251-a186-6230557840c9",
+    "event_type": "page_view",
+    "timestamp": "2026-01-15T10:33:42Z",
+    "session_duration_s": 650,
+    "properties": {
+      "page": "category/blog",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "fbbb3fe7-96be-4c7d-8a20-4cbe9e8d92ae",
+    "customerId": "48077a7c-0e8a-4785-9861-5dd2bf5c2aba",
+    "event_type": "login",
+    "timestamp": "2026-03-08T20:29:41Z",
+    "session_duration_s": 3379,
+    "properties": {
+      "page": "posts/categories/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "48e81fb5-d2cc-4be5-a08e-6b5f59a5f945",
+    "customerId": "8f68b0d4-6d44-431f-916f-d4590134be04",
+    "event_type": "export",
+    "timestamp": "2026-02-16T00:56:08Z",
+    "session_duration_s": 1860,
+    "properties": {
+      "page": "category/posts/category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "aefddfe3-ff54-4cc6-86ab-1cd024ad6012",
+    "customerId": "e663491e-3292-4587-aabb-9db2375bcc21",
+    "event_type": "export",
+    "timestamp": "2026-01-19T16:14:48Z",
+    "session_duration_s": 1451,
+    "properties": {
+      "page": "blog/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "756ecfbd-6206-478a-8099-3730b242aa5b",
+    "customerId": "e3c483ef-7f13-4267-ab84-95ec4ccf6be9",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-24T03:08:39Z",
+    "session_duration_s": 3440,
+    "properties": {
+      "page": "wp-content/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9481fc58-2614-452b-ab8a-c91acd66e6c0",
+    "customerId": "9a01ceb3-7ee1-4e05-a230-44dfd3127a1a",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-03T18:22:37Z",
+    "session_duration_s": 983,
+    "properties": {
+      "page": "app/category/app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "3d23c356-882d-4808-9271-84336c6da29a",
+    "customerId": "73af5652-bc69-479e-bdb5-57deac52cb1e",
+    "event_type": "export",
+    "timestamp": "2026-01-25T04:23:58Z",
+    "session_duration_s": 1172,
+    "properties": {
+      "page": "categories/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "5980fcf8-c9ca-4423-804e-fad5a4c7a9ae",
+    "customerId": "d93d496e-eebd-4a8d-be60-2511d59d800f",
+    "event_type": "export",
+    "timestamp": "2026-03-24T16:58:47Z",
+    "session_duration_s": 2307,
+    "properties": {
+      "page": "tag/posts/search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ce2bf419-4052-48a0-8d5d-f2e41c6f9c0a",
+    "customerId": "551bd149-a6b3-40cf-ba38-5c4e6e421050",
+    "event_type": "page_view",
+    "timestamp": "2026-01-07T18:34:30Z",
+    "session_duration_s": 1191,
+    "properties": {
+      "page": "tag/category/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "0b62f6cc-f1e8-4ac8-a370-3506c3fca683",
+    "customerId": "6029dcd2-388b-4899-8034-9e1a48822bc0",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-12T20:44:58Z",
+    "session_duration_s": 2642,
+    "properties": {
+      "page": "posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "0983f835-152e-42f4-9497-1c56059a50d2",
+    "customerId": "2be023d9-a998-4493-8e1b-48139b08264b",
+    "event_type": "export",
+    "timestamp": "2026-01-27T14:27:44Z",
+    "session_duration_s": 1883,
+    "properties": {
+      "page": "wp-content/posts",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "8fe5fe36-7c3b-46a3-848c-e55fb76e26e8",
+    "customerId": "0a0ec52f-72a3-442a-8fe0-e55f6d66229f",
+    "event_type": "login",
+    "timestamp": "2026-03-25T04:37:55Z",
+    "session_duration_s": 1858,
+    "properties": {
+      "page": "blog/category/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "cef647ba-5de0-43b2-a354-426069e70b73",
+    "customerId": "81dd16db-40b4-466c-918e-dccf96cd7428",
+    "event_type": "export",
+    "timestamp": "2026-01-03T19:35:07Z",
+    "session_duration_s": 734,
+    "properties": {
+      "page": "posts/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7c9cbc81-ed36-4848-9610-189c89f74ced",
+    "customerId": "7f8912ee-3896-4173-806a-43b58701e144",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-09T10:21:24Z",
+    "session_duration_s": 350,
+    "properties": {
+      "page": "wp-content/app/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "50168c8e-ca09-4dab-9056-d70b79f85a68",
+    "customerId": "b9cb3664-89bd-4640-ac91-32162bdf45b9",
+    "event_type": "page_view",
+    "timestamp": "2026-01-01T14:22:04Z",
+    "session_duration_s": 3397,
+    "properties": {
+      "page": "wp-content/search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "2f737fbb-4e2f-4342-9f20-9093b4668c80",
+    "customerId": "a15ce7ad-a2c3-40b2-83f5-29eb27c0ccef",
+    "event_type": "page_view",
+    "timestamp": "2026-03-10T16:07:42Z",
+    "session_duration_s": 3258,
+    "properties": {
+      "page": "posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "f24c99b5-f256-4ae3-b539-2e2d1691b8e1",
+    "customerId": "1e35c9a6-d502-4108-8377-8c86db4555f4",
+    "event_type": "export",
+    "timestamp": "2026-01-03T02:15:34Z",
+    "session_duration_s": 1615,
+    "properties": {
+      "page": "tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "79089d99-a1a6-4154-8023-8ac0e504881d",
+    "customerId": "896fa805-dce8-463d-9ac8-2f19e7a97e7a",
+    "event_type": "page_view",
+    "timestamp": "2026-03-14T18:38:37Z",
+    "session_duration_s": 814,
+    "properties": {
+      "page": "wp-content/posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "0a52f325-a2fb-4229-a988-eae1ec01d296",
+    "customerId": "6ee569ed-8a12-4a04-821c-7068a751a1fb",
+    "event_type": "page_view",
+    "timestamp": "2026-02-15T02:45:47Z",
+    "session_duration_s": 2761,
+    "properties": {
+      "page": "blog",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "fbd568cb-44fd-4e82-b417-1664ca8f5553",
+    "customerId": "0ecd8fb1-9244-4a27-bc85-eb6fd15bf2c8",
+    "event_type": "login",
+    "timestamp": "2026-01-30T15:07:33Z",
+    "session_duration_s": 809,
+    "properties": {
+      "page": "search/search/tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "11e7d07b-91ed-41b7-ae79-f75136e79452",
+    "customerId": "c0ab1787-05c8-4b57-b918-5a5de6298646",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-28T17:13:47Z",
+    "session_duration_s": 3154,
+    "properties": {
+      "page": "categories/explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "d6f32bd0-248c-4398-ae4c-e401ac71fe57",
+    "customerId": "9378509a-54c9-4586-9df2-9230c6f3f975",
+    "event_type": "page_view",
+    "timestamp": "2026-02-13T13:17:23Z",
+    "session_duration_s": 2408,
+    "properties": {
+      "page": "blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "a769889d-8767-4457-b611-98f7db6e1923",
+    "customerId": "ac6c9eef-430e-4993-ae83-85e4e988a442",
+    "event_type": "page_view",
+    "timestamp": "2026-01-07T08:22:06Z",
+    "session_duration_s": 3306,
+    "properties": {
+      "page": "main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "1fdcc020-03b3-4053-aa27-b5d6d967318c",
+    "customerId": "98f787bc-7d82-45a0-8b18-fe40e2529e6e",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-05T02:29:49Z",
+    "session_duration_s": 1930,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "5b91aa82-ca6f-431d-ac04-ffc6171db1f1",
+    "customerId": "35646212-1c0d-4fa8-996b-b8c901600d70",
+    "event_type": "page_view",
+    "timestamp": "2026-03-02T16:25:26Z",
+    "session_duration_s": 661,
+    "properties": {
+      "page": "app/category/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "3f263f09-2894-469a-966d-f522f440391e",
+    "customerId": "65f85f7f-9a3a-4853-b127-73478682e472",
+    "event_type": "login",
+    "timestamp": "2026-03-26T09:37:42Z",
+    "session_duration_s": 3236,
+    "properties": {
+      "page": "search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "684ec5bb-b471-4e6c-b41e-8b318f1a0771",
+    "customerId": "a9e2c574-0734-414b-ad62-4851006c87ca",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-29T22:38:04Z",
+    "session_duration_s": 1232,
+    "properties": {
+      "page": "search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9153e62d-edc8-4240-9b40-cdca7ca8f99b",
+    "customerId": "58fcad66-8df0-4601-8b00-6fdb4bc4da67",
+    "event_type": "page_view",
+    "timestamp": "2026-01-04T13:08:04Z",
+    "session_duration_s": 2754,
+    "properties": {
+      "page": "posts/app/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "710d5cc7-0beb-4b15-b622-bb9faef70f94",
+    "customerId": "fa066a76-71c3-455c-8cd0-bed71a4316ae",
+    "event_type": "page_view",
+    "timestamp": "2026-01-09T00:21:31Z",
+    "session_duration_s": 1076,
+    "properties": {
+      "page": "app/explore/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "aff04d1b-bf53-4d47-8f3d-c224f69ab985",
+    "customerId": "20e77871-6a19-408f-ac49-d650ba056938",
+    "event_type": "export",
+    "timestamp": "2026-01-27T15:12:52Z",
+    "session_duration_s": 2838,
+    "properties": {
+      "page": "tags/category/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "4fc684f8-759f-45d1-a66d-a31ec32445e7",
+    "customerId": "f980cf88-90c8-4a15-a4cc-7f03dddf4361",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-06T20:04:32Z",
+    "session_duration_s": 2233,
+    "properties": {
+      "page": "explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "a22823eb-e445-4b97-8b8b-cb362c90e8fc",
+    "customerId": "398bac14-6c23-4716-96e2-2be645262644",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-15T12:29:23Z",
+    "session_duration_s": 3000,
+    "properties": {
+      "page": "blog",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "6ba48352-2ede-4f8f-b297-e173be102bee",
+    "customerId": "986b17d0-4644-495e-85b7-f4b16f495361",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-21T17:28:59Z",
+    "session_duration_s": 995,
+    "properties": {
+      "page": "main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "00f31561-b952-460d-8070-7da4fd0b7624",
+    "customerId": "a6b03122-4dd2-4606-bdf0-527b0b636f0f",
+    "event_type": "page_view",
+    "timestamp": "2026-01-17T09:34:11Z",
+    "session_duration_s": 1078,
+    "properties": {
+      "page": "tags/blog/app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "cf6a39d5-b543-4192-8cc4-c5e612cfa057",
+    "customerId": "b0dd011b-cbce-42ce-8ad8-11877d432eef",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-02T04:45:34Z",
+    "session_duration_s": 2115,
+    "properties": {
+      "page": "search/category/search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9d3673ff-555c-4cec-b899-e1b73152daf0",
+    "customerId": "b80eeffb-d1d5-4cf6-9a8f-8e550e050c83",
+    "event_type": "login",
+    "timestamp": "2026-02-15T16:53:48Z",
+    "session_duration_s": 991,
+    "properties": {
+      "page": "tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "ddcfbd92-1a79-42b0-866b-1ddaedcabcb2",
+    "customerId": "c5ea3294-150f-470b-83b8-fda21f974dd9",
+    "event_type": "login",
+    "timestamp": "2026-01-04T17:32:31Z",
+    "session_duration_s": 1039,
+    "properties": {
+      "page": "wp-content/search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "05da640f-e856-4382-8c2c-46b2109504a2",
+    "customerId": "61c302a4-9102-4c00-ab34-a4d5f7af989e",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-19T10:10:26Z",
+    "session_duration_s": 75,
+    "properties": {
+      "page": "explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "7e020531-cb07-4b95-9afc-8d0b0b05e273",
+    "customerId": "f6438293-20b6-49e3-a0f5-cd8688f50f8c",
+    "event_type": "login",
+    "timestamp": "2026-01-03T06:24:33Z",
+    "session_duration_s": 124,
+    "properties": {
+      "page": "blog/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "b7f3bb64-1dae-44e9-a30b-8b007150ee5b",
+    "customerId": "8ccb832a-3007-4266-b209-d6a91570a920",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-17T09:05:32Z",
+    "session_duration_s": 1636,
+    "properties": {
+      "page": "app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "2ea9483c-1e23-4783-803a-15a33d233b46",
+    "customerId": "e66a9d02-2ae0-4229-89e2-97c3d319a97b",
+    "event_type": "login",
+    "timestamp": "2026-03-02T11:46:24Z",
+    "session_duration_s": 453,
+    "properties": {
+      "page": "posts/wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "957bad7a-51ec-4cac-8ab8-3a86d4dbdf61",
+    "customerId": "8d2f763c-1081-4067-9fd1-cf6d12a2e70f",
+    "event_type": "export",
+    "timestamp": "2026-02-05T05:12:23Z",
+    "session_duration_s": 1968,
+    "properties": {
+      "page": "wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "6726bd48-989d-4048-a3da-787492668c7c",
+    "customerId": "57443d40-3d62-4d86-8c8e-9aa750ecadda",
+    "event_type": "page_view",
+    "timestamp": "2026-01-16T19:53:04Z",
+    "session_duration_s": 1078,
+    "properties": {
+      "page": "app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "5ec2ec3e-9cdc-466a-80fa-2e1c1d466814",
+    "customerId": "9088c6e2-c48d-4dcb-a529-075d6556baf9",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-24T18:47:45Z",
+    "session_duration_s": 1000,
+    "properties": {
+      "page": "app/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "5a7c77b7-5de2-4aaf-ad16-1504d5d438d3",
+    "customerId": "2386c03f-825f-406b-ae26-bbb57acd1161",
+    "event_type": "page_view",
+    "timestamp": "2026-03-21T15:10:01Z",
+    "session_duration_s": 579,
+    "properties": {
+      "page": "main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "0fb4d867-f142-483f-98f1-8c50b7147606",
+    "customerId": "d395378b-92ef-4f04-96a1-da44c1a176ac",
+    "event_type": "export",
+    "timestamp": "2026-01-20T05:07:42Z",
+    "session_duration_s": 2585,
+    "properties": {
+      "page": "list/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "af72c170-fd5b-4545-9361-dfc5327062fc",
+    "customerId": "1db23b23-0f2a-40a0-94c2-77ca07e537c0",
+    "event_type": "login",
+    "timestamp": "2026-01-23T19:55:47Z",
+    "session_duration_s": 3033,
+    "properties": {
+      "page": "posts/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "98dd3007-9848-4f86-96c2-7eb10995c151",
+    "customerId": "faaedc36-aabf-4494-ae5a-0567a278a652",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-06T10:41:51Z",
+    "session_duration_s": 152,
+    "properties": {
+      "page": "main",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "6c97061b-8d48-4804-b1c2-20d66339434e",
+    "customerId": "246b8f8d-b4a9-4de1-b89e-c86b6f09e754",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-09T12:03:31Z",
+    "session_duration_s": 2521,
+    "properties": {
+      "page": "blog/blog/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "6786dd9e-ff9e-48e0-8076-d1719a806cfb",
+    "customerId": "6832d42f-5654-421b-9f70-bbbdfda4939f",
+    "event_type": "login",
+    "timestamp": "2026-03-31T04:59:25Z",
+    "session_duration_s": 2247,
+    "properties": {
+      "page": "blog/main/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "8dc6c771-53eb-43d9-8ece-ab9636068cc8",
+    "customerId": "3596f45a-3f8a-4a4c-96bd-d6f2d6beb0d5",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-06T10:36:50Z",
+    "session_duration_s": 66,
+    "properties": {
+      "page": "categories/blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9f5475ff-1462-49a0-bec5-402b326de24a",
+    "customerId": "e2a61aea-97be-4b08-bae2-3c86c8594898",
+    "event_type": "page_view",
+    "timestamp": "2026-03-19T03:06:42Z",
+    "session_duration_s": 2954,
+    "properties": {
+      "page": "categories/main/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "613b08e4-eab5-48e0-aaaf-7f12b669f847",
+    "customerId": "7c7d5f4d-7fe4-47bc-b3bc-d1964ab01419",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-13T17:53:06Z",
+    "session_duration_s": 1852,
+    "properties": {
+      "page": "tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "6fc7d488-c8ed-41c5-8845-86403ad09c70",
+    "customerId": "dc7c0273-64d3-4bb7-b4eb-4030a61fa3cd",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-15T12:58:47Z",
+    "session_duration_s": 468,
+    "properties": {
+      "page": "tags",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "2f8f8273-f091-4c0a-8b0f-da19661152e5",
+    "customerId": "4b3555e3-338b-4864-8629-627d90f531db",
+    "event_type": "page_view",
+    "timestamp": "2026-02-19T20:40:57Z",
+    "session_duration_s": 1740,
+    "properties": {
+      "page": "category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "687c9e72-cc5c-4c81-81e7-e9899aa5c6bc",
+    "customerId": "7d4c7d75-cc90-445e-aff9-55bf789c7d30",
+    "event_type": "page_view",
+    "timestamp": "2026-01-08T08:11:55Z",
+    "session_duration_s": 465,
+    "properties": {
+      "page": "tag/app",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3b26b8c8-abfc-48f4-babe-3df88c45a5bc",
+    "customerId": "a923fe5f-c316-42a6-a786-06e0e0da94c7",
+    "event_type": "login",
+    "timestamp": "2026-02-11T00:39:31Z",
+    "session_duration_s": 3563,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "200b0570-0350-43e4-b7d6-d01fe45d8b3d",
+    "customerId": "35591c2c-d627-4fee-807e-cba3a68a768e",
+    "event_type": "page_view",
+    "timestamp": "2026-03-14T22:07:45Z",
+    "session_duration_s": 3588,
+    "properties": {
+      "page": "tags/search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "3a712651-b21c-49e3-9678-a00834ebfde6",
+    "customerId": "17cd54e2-dc5c-46ca-be10-e7e02ecbc173",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-08T18:22:54Z",
+    "session_duration_s": 2458,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b59f3a96-148a-410a-a0e4-b644192b9076",
+    "customerId": "6eccde38-d8df-4162-bf1f-2186f426c2e9",
+    "event_type": "login",
+    "timestamp": "2026-02-08T22:12:46Z",
+    "session_duration_s": 2736,
+    "properties": {
+      "page": "list/tag/app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "6dc39e39-db5f-4f91-a354-04a7435cdf12",
+    "customerId": "3ddbed5d-5f5b-42bc-9f66-05e885036b40",
+    "event_type": "login",
+    "timestamp": "2026-03-01T16:36:18Z",
+    "session_duration_s": 1627,
+    "properties": {
+      "page": "tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "179182e2-1aae-4e45-bb9b-6558358a1b3a",
+    "customerId": "3972a6b6-9992-4c01-85ab-28dd1cef6aa4",
+    "event_type": "login",
+    "timestamp": "2026-01-09T09:20:52Z",
+    "session_duration_s": 1566,
+    "properties": {
+      "page": "explore/blog",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "846b58eb-ecf7-4f10-b30f-8eb48390c56f",
+    "customerId": "46037fcf-0496-4dc8-ab3c-2bd8ea48168f",
+    "event_type": "page_view",
+    "timestamp": "2026-02-28T23:25:34Z",
+    "session_duration_s": 820,
+    "properties": {
+      "page": "blog/blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "50a3f833-e656-44d8-9a07-3e8b8b151324",
+    "customerId": "54c506aa-e4df-465a-b486-ddeb2ac9ca4d",
+    "event_type": "page_view",
+    "timestamp": "2026-01-14T06:28:13Z",
+    "session_duration_s": 3470,
+    "properties": {
+      "page": "app/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "dbbe8d9c-48eb-49c9-9096-75609b51346f",
+    "customerId": "2c341273-ac37-49ec-8e86-2799e61b83d7",
+    "event_type": "page_view",
+    "timestamp": "2026-03-24T19:06:27Z",
+    "session_duration_s": 957,
+    "properties": {
+      "page": "wp-content/categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "40658dac-e74e-4641-8e3d-4a7f5e07e73d",
+    "customerId": "5d976465-5d15-495f-81c3-e5349d3e0696",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-29T07:17:34Z",
+    "session_duration_s": 1603,
+    "properties": {
+      "page": "categories/categories/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "c5d4f68e-18a5-420d-a7ff-9e6a81fdb41e",
+    "customerId": "6aaa926b-e3d6-4c45-a59d-5061682bc0ca",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-19T11:34:16Z",
+    "session_duration_s": 1756,
+    "properties": {
+      "page": "blog",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "58da2f42-9639-4065-aa7d-1931efed62c3",
+    "customerId": "9b0aca34-16dc-463f-a787-aeacafd1a92f",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-12T10:01:19Z",
+    "session_duration_s": 470,
+    "properties": {
+      "page": "list/category/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "16c28b05-b4c7-47b8-a9fd-8f590adb339e",
+    "customerId": "6289185e-d276-4c8f-b94c-6aeefe1a378c",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-26T05:46:09Z",
+    "session_duration_s": 836,
+    "properties": {
+      "page": "blog/wp-content/wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "f83b7b51-037f-4984-8af7-77f783bc0ad1",
+    "customerId": "50add0f5-7dfb-42fd-800b-2abf5d1ef8b5",
+    "event_type": "login",
+    "timestamp": "2026-01-15T13:51:46Z",
+    "session_duration_s": 743,
+    "properties": {
+      "page": "categories/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "b7092c3c-29da-4575-843e-643ac8659b52",
+    "customerId": "a583b441-b140-48e3-ba79-61c0a15291e8",
+    "event_type": "page_view",
+    "timestamp": "2026-01-09T01:32:55Z",
+    "session_duration_s": 2584,
+    "properties": {
+      "page": "main/app/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c1a681e3-e4ef-45a7-bbbe-07e21887f04a",
+    "customerId": "df7383b1-c528-47e6-99a1-08d6fc5483b5",
+    "event_type": "page_view",
+    "timestamp": "2026-02-23T10:42:23Z",
+    "session_duration_s": 599,
+    "properties": {
+      "page": "tags/app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "cd0f884c-2ee0-47f4-a6c6-6f38bbbbd0c5",
+    "customerId": "9ab29111-74d5-4dea-9066-0ad04651d230",
+    "event_type": "login",
+    "timestamp": "2026-02-23T12:29:54Z",
+    "session_duration_s": 3349,
+    "properties": {
+      "page": "list/posts/posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "4eb57b4b-0adf-408e-b622-8f705fc497c2",
+    "customerId": "67ccf823-0f4f-4e50-bdfd-8b66fd6f02d2",
+    "event_type": "export",
+    "timestamp": "2026-02-02T15:35:55Z",
+    "session_duration_s": 689,
+    "properties": {
+      "page": "wp-content/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "3514462e-12ef-4a32-943f-ac85588da771",
+    "customerId": "aa7d1282-1a75-4487-95cc-0ec89a2c42f2",
+    "event_type": "login",
+    "timestamp": "2026-03-22T07:56:25Z",
+    "session_duration_s": 3089,
+    "properties": {
+      "page": "wp-content/search/categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3c9d835a-e7d5-4768-af2a-5128a6383650",
+    "customerId": "62b13538-c5a8-4163-af41-2d106937edd3",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-10T03:02:09Z",
+    "session_duration_s": 55,
+    "properties": {
+      "page": "tag/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "239befb6-ae43-4e96-9dcf-d6a5959156a5",
+    "customerId": "5127aa47-21b3-4f69-bbe3-0e66257e07ac",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-24T13:16:44Z",
+    "session_duration_s": 1776,
+    "properties": {
+      "page": "app/wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "8cddf65f-1beb-42a6-9e31-d544860ab09f",
+    "customerId": "e915420c-293e-4b32-ae5d-0679e67b2f54",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-16T08:32:06Z",
+    "session_duration_s": 416,
+    "properties": {
+      "page": "main/wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "27584787-b229-4434-aed8-78f15a975816",
+    "customerId": "5db4f7fc-a7fb-4a22-bdc1-ba380aeba88b",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-27T12:26:54Z",
+    "session_duration_s": 664,
+    "properties": {
+      "page": "wp-content/tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "355498dd-ce94-4d35-b214-5474f60f432a",
+    "customerId": "de40bd36-fa3c-43a2-a5aa-ccde4acf7326",
+    "event_type": "page_view",
+    "timestamp": "2026-01-11T10:41:47Z",
+    "session_duration_s": 3493,
+    "properties": {
+      "page": "tags/blog/app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "8d6a6d91-364d-49c3-a7b3-030b30153017",
+    "customerId": "6c6d8add-0621-41cd-b287-789c3d439ab7",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-22T22:44:34Z",
+    "session_duration_s": 2729,
+    "properties": {
+      "page": "category/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "4e58f904-416b-405f-8f1c-ced2733a32d5",
+    "customerId": "615aab41-aafd-4701-9149-76492b769445",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-30T11:13:10Z",
+    "session_duration_s": 254,
+    "properties": {
+      "page": "explore/explore/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "c9162355-ddac-4bcf-bd11-7126282c3e10",
+    "customerId": "60f41158-2085-4239-93ba-c269ec360798",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-20T05:38:06Z",
+    "session_duration_s": 1186,
+    "properties": {
+      "page": "category/tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "681a6856-9cac-4c3b-b102-1f563c90410a",
+    "customerId": "8fd647ef-2886-4ab4-8ddb-53bbd79e76c5",
+    "event_type": "page_view",
+    "timestamp": "2026-01-05T22:48:00Z",
+    "session_duration_s": 1338,
+    "properties": {
+      "page": "search/app/categories",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "646be696-4759-459e-afda-34449ca57124",
+    "customerId": "f704c38a-faa2-4259-9350-eb2e25999f6d",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-02T07:20:21Z",
+    "session_duration_s": 784,
+    "properties": {
+      "page": "list/search/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "5bdcc9e1-22ff-494d-8e52-24841f28bfed",
+    "customerId": "31af8487-6642-4f66-8f08-2c8ffbb46381",
+    "event_type": "page_view",
+    "timestamp": "2026-01-18T13:40:25Z",
+    "session_duration_s": 2141,
+    "properties": {
+      "page": "list/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "fb02243b-3506-47a5-b1f5-089bbd03c923",
+    "customerId": "b0465172-274b-4a90-aa16-03aaaceb0431",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-25T11:46:10Z",
+    "session_duration_s": 2401,
+    "properties": {
+      "page": "tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "b05755ab-7ba6-4bb6-a84e-d725ae204897",
+    "customerId": "242c8810-a10b-4222-b7eb-a60e807f31b6",
+    "event_type": "page_view",
+    "timestamp": "2026-03-05T04:59:31Z",
+    "session_duration_s": 572,
+    "properties": {
+      "page": "wp-content/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "ae4724ed-197a-4f51-819f-7c6259d0741f",
+    "customerId": "08c45785-5f6d-4bdd-963c-aef0dcdb18fb",
+    "event_type": "export",
+    "timestamp": "2026-03-13T05:55:51Z",
+    "session_duration_s": 811,
+    "properties": {
+      "page": "app/categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "254a6ec4-c5f3-4c76-a585-ddb48a5a431d",
+    "customerId": "d6770860-ed89-41ec-8fa9-626e28faf609",
+    "event_type": "login",
+    "timestamp": "2026-03-30T06:38:55Z",
+    "session_duration_s": 162,
+    "properties": {
+      "page": "tag/tags/search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "f42c62ab-1956-4bf0-8a92-fb6985cd6cfc",
+    "customerId": "8015546d-f655-4ca5-9247-1e9fdcfdb4af",
+    "event_type": "page_view",
+    "timestamp": "2026-02-18T05:44:05Z",
+    "session_duration_s": 146,
+    "properties": {
+      "page": "search/posts/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "5a948f0e-00f8-4845-bc62-39788732537b",
+    "customerId": "75ca1a2a-3cbc-4090-8180-293435f5d56e",
+    "event_type": "login",
+    "timestamp": "2026-01-19T13:59:47Z",
+    "session_duration_s": 2385,
+    "properties": {
+      "page": "posts/main/tags",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a34f16f0-9f2f-4216-a1ff-91a384fa0370",
+    "customerId": "81fecff0-a58f-4849-b1dd-85858ed07403",
+    "event_type": "login",
+    "timestamp": "2026-03-16T15:41:20Z",
+    "session_duration_s": 1076,
+    "properties": {
+      "page": "explore/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "85bf0909-c39b-4855-b1d1-0e8dc2df2234",
+    "customerId": "11131f85-79fd-4c90-832f-982d5fd627e8",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-12T17:44:55Z",
+    "session_duration_s": 3321,
+    "properties": {
+      "page": "app/tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "630f6459-6f65-4fc5-8f9a-1ce37420248d",
+    "customerId": "56b63016-8984-4268-9ebc-3071191616f7",
+    "event_type": "page_view",
+    "timestamp": "2026-02-28T23:41:04Z",
+    "session_duration_s": 1984,
+    "properties": {
+      "page": "tags/wp-content/wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "0acfac75-bedc-4234-8504-301bdc70373a",
+    "customerId": "4f969c1a-6d41-49b1-a34e-917250bca27d",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-22T18:45:33Z",
+    "session_duration_s": 856,
+    "properties": {
+      "page": "app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b4df521f-ac5a-4d71-97a0-2c80c01dcdaa",
+    "customerId": "4229925e-db04-42fe-8e4b-7d7f5cc29944",
+    "event_type": "export",
+    "timestamp": "2026-03-28T03:09:23Z",
+    "session_duration_s": 3397,
+    "properties": {
+      "page": "category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b50a1daa-eca2-4df2-b0fe-92b17380883b",
+    "customerId": "08fb702d-885b-4f0c-9950-8d6204de3da1",
+    "event_type": "page_view",
+    "timestamp": "2026-02-12T08:08:20Z",
+    "session_duration_s": 397,
+    "properties": {
+      "page": "app",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "bb916bbe-3fff-4717-8ac6-131192d33f2e",
+    "customerId": "003a9e92-d04d-4d1b-b183-de60d6ae58a4",
+    "event_type": "login",
+    "timestamp": "2026-02-27T14:24:55Z",
+    "session_duration_s": 2806,
+    "properties": {
+      "page": "category/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b49bb14b-1df1-4e01-8efc-3dccea22d23a",
+    "customerId": "685a8aa2-f8ee-4944-8fab-7895a47eb8c0",
+    "event_type": "export",
+    "timestamp": "2026-01-03T10:27:17Z",
+    "session_duration_s": 1711,
+    "properties": {
+      "page": "categories/explore/search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "5af6b1d6-57d7-48f2-b3ef-293dbc2a165d",
+    "customerId": "dd590a07-89b3-4666-b33e-3f110c5b1a03",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-20T20:16:47Z",
+    "session_duration_s": 2360,
+    "properties": {
+      "page": "main/explore/categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "93dad704-9f38-4134-9972-d0dd02aa1185",
+    "customerId": "1c5ff0bf-e947-4771-a689-2972780a6f4c",
+    "event_type": "export",
+    "timestamp": "2026-01-08T17:50:13Z",
+    "session_duration_s": 487,
+    "properties": {
+      "page": "search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "df75b59c-3383-4efc-b54a-bd4b2a7b81f1",
+    "customerId": "0b9517e9-f7e7-416c-bf43-2b33d0ca7051",
+    "event_type": "login",
+    "timestamp": "2026-02-19T07:47:24Z",
+    "session_duration_s": 2499,
+    "properties": {
+      "page": "list/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9c784724-81e7-4411-a21d-ee0dbe70bb28",
+    "customerId": "845b0401-cd49-49da-b4b2-740d753d2b5e",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-16T03:53:36Z",
+    "session_duration_s": 2384,
+    "properties": {
+      "page": "posts/app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "9aa6bd2e-90ac-4d29-8f01-32dbf749a1a9",
+    "customerId": "27c0d5d3-b5b6-44f5-8251-fb14fae7a8eb",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-29T14:08:20Z",
+    "session_duration_s": 2828,
+    "properties": {
+      "page": "list/main/posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "c99347eb-c095-49db-b4b8-ef66923e2d78",
+    "customerId": "f81294c7-679b-4a0d-ba3c-a90f1e2a2fab",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-09T01:42:52Z",
+    "session_duration_s": 252,
+    "properties": {
+      "page": "wp-content/posts/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "61797fb7-082b-40c7-b350-b2512d241b3c",
+    "customerId": "418589dd-3d02-4c35-acd5-469d9057500b",
+    "event_type": "login",
+    "timestamp": "2026-02-18T21:58:00Z",
+    "session_duration_s": 1195,
+    "properties": {
+      "page": "explore/posts/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "30537b82-2164-442d-bc8d-18234291e32d",
+    "customerId": "44e90697-9301-4487-b335-af30c58515b8",
+    "event_type": "export",
+    "timestamp": "2026-02-26T02:37:34Z",
+    "session_duration_s": 1244,
+    "properties": {
+      "page": "posts/main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "1c913788-134b-4fd6-b696-7712eb945d24",
+    "customerId": "e833494f-b6a3-4d1e-ac15-a80475e71673",
+    "event_type": "page_view",
+    "timestamp": "2026-01-15T20:36:47Z",
+    "session_duration_s": 1883,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "ae4bc430-b89d-45e7-9af5-50a488939327",
+    "customerId": "5e2a2f52-2f55-4231-8410-acef75fb2a76",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-05T20:13:00Z",
+    "session_duration_s": 3204,
+    "properties": {
+      "page": "explore/tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "7ce832d2-4b12-4621-b4b8-1c14e0122570",
+    "customerId": "2f21700c-61d6-42b3-8627-85fc232fb5aa",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-16T23:05:14Z",
+    "session_duration_s": 3388,
+    "properties": {
+      "page": "search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "2666f579-657b-45a8-9cf5-aa167588b182",
+    "customerId": "abee7fa1-bfdd-4e45-8411-8a9b951aa81f",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-12T05:47:42Z",
+    "session_duration_s": 92,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "056a5d53-dbe3-4a1d-bdc7-03961f0009c4",
+    "customerId": "7bd99a20-b66a-4082-9785-709c828846e1",
+    "event_type": "export",
+    "timestamp": "2026-02-22T08:22:04Z",
+    "session_duration_s": 211,
+    "properties": {
+      "page": "category/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "599c6273-5417-45d9-bf6c-a251f604e3b3",
+    "customerId": "f437be91-dc49-4733-a32a-569ab29da800",
+    "event_type": "login",
+    "timestamp": "2026-02-22T14:53:35Z",
+    "session_duration_s": 2907,
+    "properties": {
+      "page": "category/app",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9179d5e4-e109-4707-b6bc-387aea4d688f",
+    "customerId": "38d517ba-0db4-4c0a-b09c-1485f749afb7",
+    "event_type": "login",
+    "timestamp": "2026-02-17T06:34:46Z",
+    "session_duration_s": 434,
+    "properties": {
+      "page": "app/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "753d2ae9-9dc3-436e-9b0f-66626cb3017f",
+    "customerId": "ddd854d6-91e1-4705-bba1-230048f43d77",
+    "event_type": "page_view",
+    "timestamp": "2026-02-14T02:03:18Z",
+    "session_duration_s": 204,
+    "properties": {
+      "page": "category/category/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "21d3ecae-b596-4035-91d4-2f37eb9d5c7d",
+    "customerId": "e2b7a28f-9e03-420b-bcdc-e953e873c363",
+    "event_type": "export",
+    "timestamp": "2026-01-15T20:48:54Z",
+    "session_duration_s": 2511,
+    "properties": {
+      "page": "category/main/explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "8ccfd073-c7ad-47e8-b25b-c003ec3711e2",
+    "customerId": "d3be3436-25c7-45b9-8f8e-25c5f3f8d750",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-29T08:24:59Z",
+    "session_duration_s": 1890,
+    "properties": {
+      "page": "main/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "bae57c5e-88fa-4978-82c5-814f97b3d8af",
+    "customerId": "c09ee9ca-95f1-4bb3-aa46-ba12c14c7a79",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-04T14:48:11Z",
+    "session_duration_s": 2885,
+    "properties": {
+      "page": "explore/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "69554842-70ac-435b-bfce-59562e9d9a01",
+    "customerId": "bb700b31-ca9c-4e16-b337-78f03de2b25d",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-17T16:17:20Z",
+    "session_duration_s": 3097,
+    "properties": {
+      "page": "search/blog/posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "774bfa75-9c9d-4e84-be19-e38a4701f82b",
+    "customerId": "a4388fc4-f215-4434-9abb-c9e66e0a229b",
+    "event_type": "export",
+    "timestamp": "2026-01-24T15:02:00Z",
+    "session_duration_s": 2178,
+    "properties": {
+      "page": "explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "9a5fac97-db29-4fe5-9b78-f2165981c330",
+    "customerId": "75d180a2-ebfe-4dc0-a09b-c4b4eb5a0e59",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-15T23:30:07Z",
+    "session_duration_s": 1069,
+    "properties": {
+      "page": "blog/tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "2aca75cd-3dd4-4966-a6f8-b4b3443ec34f",
+    "customerId": "6d733f9c-fcd4-449e-b1f5-6972f49a672b",
+    "event_type": "export",
+    "timestamp": "2026-01-09T23:27:51Z",
+    "session_duration_s": 1608,
+    "properties": {
+      "page": "explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "cdce17be-3c8e-4aaa-834a-5fcc7cb35f63",
+    "customerId": "598f1b9b-8178-4007-9267-e24dd2c58b0f",
+    "event_type": "export",
+    "timestamp": "2026-03-11T06:45:08Z",
+    "session_duration_s": 143,
+    "properties": {
+      "page": "app/tags/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "97035958-25de-49ab-a2e9-1135ebd0936b",
+    "customerId": "2d3c3484-cc46-4cf5-9d58-d6af5132f4c2",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-14T17:26:38Z",
+    "session_duration_s": 2348,
+    "properties": {
+      "page": "main/search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b6ae59b8-a7b0-40ee-ac8a-daf982d48ab2",
+    "customerId": "5c15a335-c075-4583-a616-51d6a8a6e92f",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-24T02:52:01Z",
+    "session_duration_s": 1691,
+    "properties": {
+      "page": "wp-content/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "8fe171d2-1d65-4173-afd4-bac26e1f6388",
+    "customerId": "4bf86a59-0612-4191-a7ef-077aded4b5be",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-24T06:20:04Z",
+    "session_duration_s": 2717,
+    "properties": {
+      "page": "list/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "d05ce002-1243-493e-ae99-4b430a86b1a4",
+    "customerId": "770ec703-d2c1-4ac0-84b7-ebc4bab87dd1",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-11T20:26:24Z",
+    "session_duration_s": 2644,
+    "properties": {
+      "page": "explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "060db3ae-71f5-4f83-a9db-ddf409194e0e",
+    "customerId": "88321dc1-9aea-4b4d-9df8-8d89d8de4364",
+    "event_type": "page_view",
+    "timestamp": "2026-01-15T02:13:40Z",
+    "session_duration_s": 131,
+    "properties": {
+      "page": "explore/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "6e9146d2-7112-4018-af6d-5b88118c1c05",
+    "customerId": "6af8c481-e363-4134-b00c-58cc7bfde90b",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-26T09:24:09Z",
+    "session_duration_s": 211,
+    "properties": {
+      "page": "tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "47a1cb49-37cb-43b1-9ea9-25b3ac5c2828",
+    "customerId": "54286936-11b4-4ed7-adc7-27c502c800f1",
+    "event_type": "export",
+    "timestamp": "2026-02-25T02:02:25Z",
+    "session_duration_s": 899,
+    "properties": {
+      "page": "categories/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "8379903a-b663-4073-a70e-442164a99ff4",
+    "customerId": "97b16633-1d27-4292-9105-f317d83dc94b",
+    "event_type": "export",
+    "timestamp": "2026-02-06T05:57:28Z",
+    "session_duration_s": 864,
+    "properties": {
+      "page": "wp-content/main",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "420bd4ea-2bdf-4921-ad68-e1f0d7145275",
+    "customerId": "89bec880-8f76-4c30-8b9b-9077ed851834",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-01T05:23:46Z",
+    "session_duration_s": 1676,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a386df99-7b2b-4b92-9b47-8e6e41c91461",
+    "customerId": "07c62a63-e569-4413-ae9e-768cbaa1de61",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-19T16:13:37Z",
+    "session_duration_s": 1249,
+    "properties": {
+      "page": "category/categories/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7dca2016-6ac7-4606-a1e6-c1fc73fb465c",
+    "customerId": "459e1eba-0e2c-467f-8edc-5e4686fb8807",
+    "event_type": "login",
+    "timestamp": "2026-02-18T10:59:35Z",
+    "session_duration_s": 1911,
+    "properties": {
+      "page": "categories",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "050eba68-ee7a-4ccb-b3c6-79ff31fa2f31",
+    "customerId": "59159351-1db6-41a1-b2cd-596d63038ec5",
+    "event_type": "login",
+    "timestamp": "2026-01-05T14:56:37Z",
+    "session_duration_s": 690,
+    "properties": {
+      "page": "tag/wp-content/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "c762c981-a98b-4ed8-9933-6cefc5c970e1",
+    "customerId": "a912d583-a906-4a31-b699-c3a2926c895f",
+    "event_type": "page_view",
+    "timestamp": "2026-03-04T11:18:51Z",
+    "session_duration_s": 3095,
+    "properties": {
+      "page": "explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "6630be3e-e496-45ec-b618-8a54028555ca",
+    "customerId": "bd359f27-275b-44af-9d74-5c64056374a7",
+    "event_type": "login",
+    "timestamp": "2026-03-08T06:24:55Z",
+    "session_duration_s": 1498,
+    "properties": {
+      "page": "explore/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "957e970e-e5f1-4471-bee1-e029a7a84817",
+    "customerId": "4c7d5a49-aef6-4965-a091-6d32409be838",
+    "event_type": "export",
+    "timestamp": "2026-01-11T01:59:49Z",
+    "session_duration_s": 2733,
+    "properties": {
+      "page": "category/posts/blog",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "039e5438-186c-45af-8945-4bd4d3843a16",
+    "customerId": "abc588e1-0d7d-421d-9c1d-edf8174d0eb4",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-25T02:33:13Z",
+    "session_duration_s": 2326,
+    "properties": {
+      "page": "category/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3f28b196-2d44-44f0-9c48-e71a6ecb9d02",
+    "customerId": "834a0f61-49de-4cf1-83a1-d59aa74c90cf",
+    "event_type": "login",
+    "timestamp": "2026-02-18T08:13:59Z",
+    "session_duration_s": 117,
+    "properties": {
+      "page": "tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "3da0e0f9-dc99-4a77-838c-88751e96cd53",
+    "customerId": "4c144a1b-f450-4b10-b035-bd0ff72acba5",
+    "event_type": "page_view",
+    "timestamp": "2026-01-27T18:57:38Z",
+    "session_duration_s": 2473,
+    "properties": {
+      "page": "list/tags/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "c37043f4-c541-4675-9522-fcd457dca73a",
+    "customerId": "8eb2aac1-4f98-4cc2-af0f-568b14a85c98",
+    "event_type": "page_view",
+    "timestamp": "2026-01-13T02:59:40Z",
+    "session_duration_s": 226,
+    "properties": {
+      "page": "main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "dc299319-fb39-4d99-a076-b920de0ca315",
+    "customerId": "52387ff0-b3cf-4864-8f83-cbe9c5342f08",
+    "event_type": "page_view",
+    "timestamp": "2026-01-08T22:16:08Z",
+    "session_duration_s": 1869,
+    "properties": {
+      "page": "wp-content/wp-content/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "56d889e9-20e2-4d3f-94e4-e057aaf4ce4e",
+    "customerId": "ae5c7983-0afe-4210-85b4-0ccd3a2f3f6d",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-17T22:30:55Z",
+    "session_duration_s": 2968,
+    "properties": {
+      "page": "search/app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7cce3a48-1644-40bb-b1d3-96a6892a0f2c",
+    "customerId": "d6143b83-c4a3-4633-abcc-1b9779762a0a",
+    "event_type": "export",
+    "timestamp": "2026-02-02T04:33:09Z",
+    "session_duration_s": 2534,
+    "properties": {
+      "page": "app/wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "348829b6-4a0c-45b1-b59c-862e4a778fc4",
+    "customerId": "2e9d6aad-8c35-48ea-8f02-a0361fda97c3",
+    "event_type": "login",
+    "timestamp": "2026-01-08T02:51:16Z",
+    "session_duration_s": 1104,
+    "properties": {
+      "page": "tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "46aafd9e-f976-49b7-9cf1-930ac64df030",
+    "customerId": "d10111b6-ee0e-4964-abf5-3ae01e2cb8c2",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-29T17:02:47Z",
+    "session_duration_s": 462,
+    "properties": {
+      "page": "blog/posts/list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "238e29ea-0ee0-4821-a8be-8ece31dfc541",
+    "customerId": "e4f93a0d-6389-4c1e-8650-55066dc83871",
+    "event_type": "page_view",
+    "timestamp": "2026-03-05T14:49:44Z",
+    "session_duration_s": 2455,
+    "properties": {
+      "page": "wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "27bc4059-c8e2-4c64-b64c-b4b910f73e67",
+    "customerId": "d6edaa62-b157-494e-a7e6-58e021aeae47",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-10T20:07:46Z",
+    "session_duration_s": 3471,
+    "properties": {
+      "page": "posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a590f5ab-4ce0-4413-966f-22475220df29",
+    "customerId": "3137f744-0950-4f83-be50-e02f5ed2c8e3",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-28T16:42:46Z",
+    "session_duration_s": 3208,
+    "properties": {
+      "page": "main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "1e053f86-234a-4776-8963-5cebdf04e7c0",
+    "customerId": "7a3b8e9b-67d8-4468-b3fc-f4295adb7167",
+    "event_type": "export",
+    "timestamp": "2026-03-03T16:34:51Z",
+    "session_duration_s": 2366,
+    "properties": {
+      "page": "main/tag/list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "aaa40849-b295-4624-8b87-e32b2bb09f70",
+    "customerId": "a663a43c-863c-427d-828b-d6599f72288a",
+    "event_type": "login",
+    "timestamp": "2026-03-19T21:49:07Z",
+    "session_duration_s": 2758,
+    "properties": {
+      "page": "category/tag/main",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "33756cac-bfef-400c-a11b-11151ca7df3f",
+    "customerId": "4f6545fa-0f79-4b2d-8ab2-f988b4431236",
+    "event_type": "login",
+    "timestamp": "2026-02-03T14:07:09Z",
+    "session_duration_s": 322,
+    "properties": {
+      "page": "tags/tag/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "296cc5fe-c36a-408d-8995-d73387d3fb6e",
+    "customerId": "9426a829-a696-4fef-88f2-f4c4b177073f",
+    "event_type": "page_view",
+    "timestamp": "2026-02-21T10:08:40Z",
+    "session_duration_s": 1664,
+    "properties": {
+      "page": "explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "5e7355f1-75fb-4dd6-a293-0f510afdcc92",
+    "customerId": "036f2e92-43a5-44ed-be26-c79a6a6b82c4",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2025-12-31T23:33:37Z",
+    "session_duration_s": 2156,
+    "properties": {
+      "page": "search/app/explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "6cd3a314-56fd-4b48-80a3-acf82a142793",
+    "customerId": "50411be2-75f0-4e6b-b4de-6cce28e97fac",
+    "event_type": "login",
+    "timestamp": "2026-02-12T22:02:25Z",
+    "session_duration_s": 426,
+    "properties": {
+      "page": "main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "eec4cbd4-f832-449d-84f1-e859bd89b8d4",
+    "customerId": "f1cd3b0a-21fb-459e-b03b-550f3c28e644",
+    "event_type": "page_view",
+    "timestamp": "2026-01-12T11:24:00Z",
+    "session_duration_s": 1683,
+    "properties": {
+      "page": "tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "f7c940a9-8f75-4029-b0b7-05c3622c3e1b",
+    "customerId": "a088cfba-743e-4e66-b2c3-a348afa9bf5f",
+    "event_type": "export",
+    "timestamp": "2026-01-14T01:05:35Z",
+    "session_duration_s": 434,
+    "properties": {
+      "page": "explore/main/search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "7c99f147-d1c1-4a9e-b0d2-c3bee10b4505",
+    "customerId": "72807a65-38f1-4300-b8f0-4781764680dc",
+    "event_type": "export",
+    "timestamp": "2026-02-16T21:26:37Z",
+    "session_duration_s": 2132,
+    "properties": {
+      "page": "search/category/posts",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "575227c5-5317-4a38-9d6c-aa6f4a922fdc",
+    "customerId": "f12ce022-d2d2-44ac-aca7-156d95df4cf9",
+    "event_type": "login",
+    "timestamp": "2026-03-15T14:53:05Z",
+    "session_duration_s": 1566,
+    "properties": {
+      "page": "app/list/categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9ec0babf-94b9-4eaa-b90b-4918a76f33f1",
+    "customerId": "51814f39-4836-4eca-aa07-e6a716462365",
+    "event_type": "page_view",
+    "timestamp": "2026-01-19T12:10:40Z",
+    "session_duration_s": 1108,
+    "properties": {
+      "page": "app/categories/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "0c089c5f-6ffb-4acf-b4e4-5bc8b907f3a9",
+    "customerId": "e4ed6129-d822-4e26-9984-aacde4b704d5",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-02T08:52:15Z",
+    "session_duration_s": 2207,
+    "properties": {
+      "page": "category/category/posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ab706a05-19bf-4720-8381-74c63be17a1b",
+    "customerId": "b2d34d40-4ee1-4006-8c59-acb2ee38f48e",
+    "event_type": "page_view",
+    "timestamp": "2026-02-05T20:42:59Z",
+    "session_duration_s": 2019,
+    "properties": {
+      "page": "search/categories/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7312d375-8491-4d28-9825-667708bc31f0",
+    "customerId": "3e714a6b-6c16-4a3f-9d0a-1dcca5eba605",
+    "event_type": "login",
+    "timestamp": "2026-01-28T16:06:18Z",
+    "session_duration_s": 2770,
+    "properties": {
+      "page": "explore/list/main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "f289f862-7a88-41fa-85ff-b7e4e0e502b0",
+    "customerId": "9034d119-d7e9-4090-bfd2-8cb1f4c2cf1d",
+    "event_type": "page_view",
+    "timestamp": "2026-03-05T11:42:12Z",
+    "session_duration_s": 1840,
+    "properties": {
+      "page": "search/app/tags",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "548e900b-5250-4473-8479-5a0d4f8a6918",
+    "customerId": "a8f48ef5-e209-4e7b-80f2-ffadca0225a8",
+    "event_type": "export",
+    "timestamp": "2026-03-17T06:30:03Z",
+    "session_duration_s": 2774,
+    "properties": {
+      "page": "list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "993ab6eb-bdcc-43d8-a3d1-2b7e4fccb605",
+    "customerId": "a3e911a1-aeb7-4386-924e-58d0496e1c70",
+    "event_type": "page_view",
+    "timestamp": "2026-03-01T20:18:12Z",
+    "session_duration_s": 1514,
+    "properties": {
+      "page": "posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "49f02ba2-eac1-4914-8d03-eddd8cc2b503",
+    "customerId": "90f44633-ecf7-4244-ada7-26194f9289fb",
+    "event_type": "login",
+    "timestamp": "2026-03-09T00:59:03Z",
+    "session_duration_s": 2235,
+    "properties": {
+      "page": "list/category/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "77139468-2011-49d4-83d3-804933a6baf2",
+    "customerId": "ec19c2fa-d0e3-4cae-a86d-c9b85bbba04b",
+    "event_type": "page_view",
+    "timestamp": "2026-03-12T23:29:19Z",
+    "session_duration_s": 1694,
+    "properties": {
+      "page": "list/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "9f1bada8-f472-45fb-876f-d61895741ae4",
+    "customerId": "6c6c7a18-90c0-422a-ad53-6a757a066b54",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-27T00:59:33Z",
+    "session_duration_s": 2022,
+    "properties": {
+      "page": "search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "51da61bb-8bbd-4f6a-97a4-2bdd15282dbb",
+    "customerId": "2778ff97-e15d-43bf-9c04-37ae4e39b5d9",
+    "event_type": "page_view",
+    "timestamp": "2026-02-12T10:29:33Z",
+    "session_duration_s": 3448,
+    "properties": {
+      "page": "search/categories/posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b6453b93-06c0-4fc8-b8eb-27a5f93485ac",
+    "customerId": "d670525a-3984-4826-b8c8-e1c94ea8dc96",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-27T16:54:58Z",
+    "session_duration_s": 440,
+    "properties": {
+      "page": "main/main/search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "9c50b369-633d-4a2d-b455-019385be2488",
+    "customerId": "d4896619-e1a4-4449-ae71-ede01c48b4fd",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-18T18:43:57Z",
+    "session_duration_s": 338,
+    "properties": {
+      "page": "tag/explore/explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "f2b5459f-0e69-4e04-8980-f61fc1a6b901",
+    "customerId": "8eb9cffa-85c2-405f-babc-abcde8896755",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-12T04:14:54Z",
+    "session_duration_s": 3400,
+    "properties": {
+      "page": "list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c32003c4-0c8b-49f8-baab-192d0880fcab",
+    "customerId": "e3eaac22-2130-467d-bf3b-ca90d928c2fc",
+    "event_type": "page_view",
+    "timestamp": "2026-01-27T00:48:57Z",
+    "session_duration_s": 2336,
+    "properties": {
+      "page": "blog/wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "02dbb640-5231-43f7-afb5-93706ee3f660",
+    "customerId": "9c4ad3b2-0564-4bf7-a201-7151afe51879",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-19T02:44:57Z",
+    "session_duration_s": 165,
+    "properties": {
+      "page": "search/tags/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c6f83fe6-4f1a-4960-8ca0-9d891a451a67",
+    "customerId": "dd9144c0-a69f-42a5-9a73-2927af82cec7",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-27T08:33:38Z",
+    "session_duration_s": 2324,
+    "properties": {
+      "page": "categories/posts/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "53361270-4213-402e-99b0-343005c931e2",
+    "customerId": "bc0768b3-601d-4c3c-b737-d56f71afe9bc",
+    "event_type": "export",
+    "timestamp": "2026-03-20T12:14:31Z",
+    "session_duration_s": 2065,
+    "properties": {
+      "page": "posts/search/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "5c8f625e-2488-490c-adf9-e9d333b7a354",
+    "customerId": "8ad65d92-82d7-407e-9f18-1bac9eb4bcbe",
+    "event_type": "page_view",
+    "timestamp": "2026-03-29T16:31:58Z",
+    "session_duration_s": 2574,
+    "properties": {
+      "page": "app/search/explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "a57e94fb-a549-4fd4-bed4-c8dc588fec70",
+    "customerId": "39a54354-5509-45a6-aa84-d103bbc07871",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-01T05:42:04Z",
+    "session_duration_s": 1998,
+    "properties": {
+      "page": "main/explore/app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "0a4ae404-e80e-4117-ae68-4cd90a0ade48",
+    "customerId": "d537c8b1-6209-4824-9720-1bb370444b1d",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-04T11:06:37Z",
+    "session_duration_s": 936,
+    "properties": {
+      "page": "category/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a2960e39-d545-4074-84f5-add0b14cde35",
+    "customerId": "8d1d9ee7-be9e-405d-bc05-285b11c5b9d0",
+    "event_type": "page_view",
+    "timestamp": "2026-01-18T04:21:20Z",
+    "session_duration_s": 2888,
+    "properties": {
+      "page": "tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "7a82bf7f-3c22-4b12-865a-19ca05987dbd",
+    "customerId": "315b94d8-1419-41bc-846d-902ddb2c7b9f",
+    "event_type": "export",
+    "timestamp": "2026-03-18T17:20:04Z",
+    "session_duration_s": 2213,
+    "properties": {
+      "page": "blog/blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "cfcd9280-e2de-43c3-ba3f-f2a3b33fb602",
+    "customerId": "fce7e777-3081-4adc-8524-3c3862b80bac",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-11T08:20:04Z",
+    "session_duration_s": 64,
+    "properties": {
+      "page": "explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "320a4219-6bd5-4d3d-acc4-ad1fc8e08e6c",
+    "customerId": "d0930333-c070-4e36-9cfb-41bbdb98e2a5",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-11T13:23:26Z",
+    "session_duration_s": 1888,
+    "properties": {
+      "page": "posts/search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "581c9f92-d22b-412d-ab4f-52c6a2918bfc",
+    "customerId": "57808be9-aa91-4fb0-8346-bb6271040a34",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-11T08:36:00Z",
+    "session_duration_s": 3190,
+    "properties": {
+      "page": "list/blog/explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "b943136f-a6fd-4824-9b0a-371088d8172e",
+    "customerId": "28b0412c-a3ce-4824-baf6-56c2912d756f",
+    "event_type": "login",
+    "timestamp": "2026-03-26T03:29:32Z",
+    "session_duration_s": 1362,
+    "properties": {
+      "page": "categories/tag/tag",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "91c4068f-3c77-4bf6-9c6b-6e7691ed8f7d",
+    "customerId": "1aa6bc3c-b793-48ab-b865-39a108bbccab",
+    "event_type": "page_view",
+    "timestamp": "2026-02-02T08:59:02Z",
+    "session_duration_s": 1324,
+    "properties": {
+      "page": "posts/categories/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "63ccaba9-acff-4156-92ce-d767c5878658",
+    "customerId": "e0b5c49e-6d15-4e66-8db4-11cbac70a89b",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-16T16:18:49Z",
+    "session_duration_s": 3030,
+    "properties": {
+      "page": "search/posts/categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "dd002eaf-9366-4de2-93c7-80e2b6176b43",
+    "customerId": "ea0e0b3f-bc0b-4f73-b036-e2f3ca838f16",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-21T19:16:56Z",
+    "session_duration_s": 1379,
+    "properties": {
+      "page": "categories/tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "8e50d1fb-d83c-4925-8430-18eaabcd19c2",
+    "customerId": "a99b627b-4610-4e17-a053-871c60c10d6b",
+    "event_type": "login",
+    "timestamp": "2026-02-01T02:12:55Z",
+    "session_duration_s": 300,
+    "properties": {
+      "page": "blog/wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "5f3aef3e-2250-4974-ab7a-f065a5164804",
+    "customerId": "e3c64e30-cce2-4718-92c5-6a0fc0c5a360",
+    "event_type": "export",
+    "timestamp": "2026-02-23T05:13:52Z",
+    "session_duration_s": 834,
+    "properties": {
+      "page": "posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "1a7ee21f-6438-42ff-955b-8dcd6c8e6b86",
+    "customerId": "4d64ef63-ea16-4971-8b7b-363dda916e96",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-24T13:34:45Z",
+    "session_duration_s": 3132,
+    "properties": {
+      "page": "category/tag/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "a53d9bed-f65e-4869-923b-6feb0ae17483",
+    "customerId": "ebd4a7e1-80b3-4cc0-b33d-2c73c9d961fb",
+    "event_type": "page_view",
+    "timestamp": "2026-02-03T09:00:37Z",
+    "session_duration_s": 3038,
+    "properties": {
+      "page": "categories/tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "280059ba-0c95-4e59-b98e-86afe06f1d8a",
+    "customerId": "4e29f6ba-0a88-41c8-b6c1-373f48f1e83e",
+    "event_type": "page_view",
+    "timestamp": "2026-01-07T11:54:34Z",
+    "session_duration_s": 727,
+    "properties": {
+      "page": "app/app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7700a707-ab5a-4133-8104-eaa6a0e6e3ad",
+    "customerId": "e190075d-4cbe-404d-9325-c3de2fee198b",
+    "event_type": "export",
+    "timestamp": "2026-03-03T19:26:37Z",
+    "session_duration_s": 33,
+    "properties": {
+      "page": "search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "9b1c7bf0-d180-495e-8912-5e4108e05eeb",
+    "customerId": "01cf85c6-2e57-46f8-ad55-50da50057ce5",
+    "event_type": "export",
+    "timestamp": "2026-01-04T19:41:00Z",
+    "session_duration_s": 2198,
+    "properties": {
+      "page": "explore/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "ba39fc3c-f2d4-4f25-ac2b-08bb2a49843d",
+    "customerId": "525c5fd9-f8d5-45c9-9c08-034299621ffc",
+    "event_type": "export",
+    "timestamp": "2026-02-18T05:48:26Z",
+    "session_duration_s": 359,
+    "properties": {
+      "page": "tag/posts",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "81076bfb-d93d-4e41-8ab9-dcfcc9831bc0",
+    "customerId": "995fe000-24a5-4fb9-aba9-b3c504150656",
+    "event_type": "export",
+    "timestamp": "2026-03-08T00:10:08Z",
+    "session_duration_s": 200,
+    "properties": {
+      "page": "main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "422c1604-dab3-415c-9987-989ab7581c30",
+    "customerId": "537f1637-d5cb-4be2-a48d-18b2e7f04315",
+    "event_type": "page_view",
+    "timestamp": "2026-03-03T05:26:17Z",
+    "session_duration_s": 85,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "f8bb0875-15d5-4d01-a2a0-7539660e1f1e",
+    "customerId": "0a7963a0-b805-4e19-acca-0bb7420201d4",
+    "event_type": "login",
+    "timestamp": "2026-01-01T06:58:40Z",
+    "session_duration_s": 264,
+    "properties": {
+      "page": "main/categories",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "a49553c6-260d-4f18-84d7-e5b0da51b96f",
+    "customerId": "6ec7821d-6243-4466-88e2-9051e2c027dc",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-24T11:55:55Z",
+    "session_duration_s": 1796,
+    "properties": {
+      "page": "app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "4346284b-b7f3-422b-a0d9-ecf12f6c68b7",
+    "customerId": "7f23d5ba-ffd8-448c-acdb-2b00f2ea7586",
+    "event_type": "login",
+    "timestamp": "2026-01-07T03:13:29Z",
+    "session_duration_s": 2657,
+    "properties": {
+      "page": "blog",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "070beeaf-7baa-400a-b345-26638807789f",
+    "customerId": "faef9ccb-49d2-4bcd-8523-43a20e5278f5",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-16T08:17:46Z",
+    "session_duration_s": 2564,
+    "properties": {
+      "page": "tag/blog/list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "f18c0d8e-c239-4257-bb5b-bf3f9178888e",
+    "customerId": "0b1876b9-f559-49bd-b1af-23db53f44f4f",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-14T14:10:27Z",
+    "session_duration_s": 3071,
+    "properties": {
+      "page": "wp-content/posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ed83cecf-168b-477a-8461-bda3b6d913b9",
+    "customerId": "1fdb8cca-814d-4f0a-81a0-00ce78216cb5",
+    "event_type": "page_view",
+    "timestamp": "2026-01-12T00:41:18Z",
+    "session_duration_s": 135,
+    "properties": {
+      "page": "category/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "ce92f30d-7f48-4e77-80ce-028dc1e04281",
+    "customerId": "b9bb2198-0439-4dad-ad93-de4c5ceb218e",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-15T11:25:32Z",
+    "session_duration_s": 505,
+    "properties": {
+      "page": "blog",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "3a556e81-fae4-4444-9435-057b4dcab905",
+    "customerId": "0611e9d7-b084-408d-8ce9-7ec73b4a508b",
+    "event_type": "export",
+    "timestamp": "2026-02-08T12:00:49Z",
+    "session_duration_s": 3214,
+    "properties": {
+      "page": "wp-content/list/explore",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "f22667fc-f3f5-422d-a561-d34929a7a1d2",
+    "customerId": "4bad63b3-bb5f-4d36-a8af-96622eb9955f",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-01T02:33:44Z",
+    "session_duration_s": 1988,
+    "properties": {
+      "page": "search/tags/tags",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7e9f8ca0-aa1d-462b-b413-c3dc6146c82a",
+    "customerId": "1b93a377-9353-4a7e-b112-789bc349e097",
+    "event_type": "export",
+    "timestamp": "2026-01-11T08:06:26Z",
+    "session_duration_s": 2263,
+    "properties": {
+      "page": "blog/app/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7e76b495-0461-4015-860b-0f95b9be025b",
+    "customerId": "383720cb-9ddd-4310-b584-7ff94d0d6fd4",
+    "event_type": "export",
+    "timestamp": "2026-03-08T00:48:33Z",
+    "session_duration_s": 611,
+    "properties": {
+      "page": "posts/explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "8c246cce-c73b-4928-8c13-49cfc43223d4",
+    "customerId": "d9551ae0-f4d8-44d4-9bff-1e2397a15bf1",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-08T22:07:12Z",
+    "session_duration_s": 3143,
+    "properties": {
+      "page": "app/app/categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "4c5054a9-c198-4f73-bd2e-6fd8354f77cf",
+    "customerId": "1422710e-f415-46d9-9999-e68117c5973b",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-11T03:07:11Z",
+    "session_duration_s": 3351,
+    "properties": {
+      "page": "blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "6f597cc4-ad60-4cde-b264-b368008dc75d",
+    "customerId": "151f8209-45e8-4846-9fc9-be1a9f5700f6",
+    "event_type": "export",
+    "timestamp": "2026-01-22T09:51:10Z",
+    "session_duration_s": 566,
+    "properties": {
+      "page": "list/tags/list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "39bc1528-f961-40d7-9b9a-440872e43a1b",
+    "customerId": "83c32301-bfe6-4da3-92d2-6f77518f50fe",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-02T22:00:16Z",
+    "session_duration_s": 2841,
+    "properties": {
+      "page": "explore/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "8c92faa1-ff39-4a90-8ad7-526aa919a68d",
+    "customerId": "811221c1-fbaf-4f5b-88b6-27d58d49e1dc",
+    "event_type": "export",
+    "timestamp": "2026-01-20T06:18:42Z",
+    "session_duration_s": 1132,
+    "properties": {
+      "page": "app/main/app",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "15592083-5bd6-41a7-9189-b08f603b2987",
+    "customerId": "3714badc-4e9e-4ea1-b647-769ef50e1e20",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-25T04:54:42Z",
+    "session_duration_s": 2100,
+    "properties": {
+      "page": "category/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a1d587db-a682-4ce6-b886-93dfea0418e4",
+    "customerId": "838188f0-a404-47ce-8045-1bc0d0aed3eb",
+    "event_type": "login",
+    "timestamp": "2026-03-12T12:37:08Z",
+    "session_duration_s": 2657,
+    "properties": {
+      "page": "wp-content/tag/list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "6b8efc56-2e79-4b67-a2bd-98a82b47b9a1",
+    "customerId": "6552d706-3973-47af-8978-7885613a21f7",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-19T18:39:49Z",
+    "session_duration_s": 160,
+    "properties": {
+      "page": "posts",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "880c97b6-b7a2-4853-b221-3163d069599e",
+    "customerId": "4e45c5ef-668e-4846-9c49-1a85a2e24e97",
+    "event_type": "login",
+    "timestamp": "2026-02-09T22:33:25Z",
+    "session_duration_s": 99,
+    "properties": {
+      "page": "tags/main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "28cd0490-bede-472d-8557-14b11ffa3cbc",
+    "customerId": "b81c639c-68ec-45fc-ba5c-18d1ecd8cbec",
+    "event_type": "login",
+    "timestamp": "2026-03-29T02:29:48Z",
+    "session_duration_s": 1560,
+    "properties": {
+      "page": "tags/tag/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "322ce283-ddde-4fd1-98cf-c14281708caa",
+    "customerId": "8419635f-6bea-410d-a5bd-49210f58c2af",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-18T05:20:37Z",
+    "session_duration_s": 81,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "4e95ad18-8f52-47e2-a045-31b005db7a9e",
+    "customerId": "691f69a7-444d-4207-9af8-90729e453cdc",
+    "event_type": "login",
+    "timestamp": "2026-02-14T18:29:52Z",
+    "session_duration_s": 1149,
+    "properties": {
+      "page": "app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "85947579-1eeb-402a-bf92-99c3d511d046",
+    "customerId": "31831494-a749-42b2-a8ec-a53bd17aa358",
+    "event_type": "login",
+    "timestamp": "2026-01-27T05:16:13Z",
+    "session_duration_s": 2780,
+    "properties": {
+      "page": "posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "5e885e28-71cd-49e3-bbe9-1b6a12845e9d",
+    "customerId": "6604f210-c778-46b8-ab01-f457a2bf6d85",
+    "event_type": "login",
+    "timestamp": "2026-03-18T12:52:56Z",
+    "session_duration_s": 488,
+    "properties": {
+      "page": "search/app/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "dad24d23-37ee-41ca-8b55-ab830c966813",
+    "customerId": "3813bac9-c5dd-4bc9-b7bb-f5d4c473a6c4",
+    "event_type": "page_view",
+    "timestamp": "2026-03-29T00:51:49Z",
+    "session_duration_s": 904,
+    "properties": {
+      "page": "list",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "f130b33b-66ff-42c2-ae03-6f51101c1dd7",
+    "customerId": "05a1a1f4-45ad-4034-a915-b2b1733a35d5",
+    "event_type": "login",
+    "timestamp": "2026-02-28T21:52:52Z",
+    "session_duration_s": 1412,
+    "properties": {
+      "page": "tags/explore/category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "1d0f3489-10a0-4a89-a0a9-2016720f98d1",
+    "customerId": "1219a8bc-a629-4a34-adfe-478f01b72273",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-16T21:17:01Z",
+    "session_duration_s": 937,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "367b0c5d-f4af-4f44-adf3-b241c43ec363",
+    "customerId": "d52d6842-bab4-4b42-a82d-c9bbb1f833e1",
+    "event_type": "page_view",
+    "timestamp": "2026-01-03T16:15:41Z",
+    "session_duration_s": 2841,
+    "properties": {
+      "page": "category/main",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "898d062e-5f8b-491f-9784-680c48b599ac",
+    "customerId": "29ab7620-02a3-48fe-8e15-f3897309aa2a",
+    "event_type": "export",
+    "timestamp": "2026-01-16T06:44:12Z",
+    "session_duration_s": 1892,
+    "properties": {
+      "page": "posts",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "ff2428e3-7c06-4909-9337-1a0374595c5e",
+    "customerId": "c96bf56a-4f95-485d-a5d6-b38657e7f387",
+    "event_type": "export",
+    "timestamp": "2026-01-19T10:08:32Z",
+    "session_duration_s": 3348,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "678ff822-e609-4ad8-bd5c-5e88f53fd0d7",
+    "customerId": "f6425f3e-424d-4ca1-a51a-6b85e58af1a1",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-11T05:43:35Z",
+    "session_duration_s": 1606,
+    "properties": {
+      "page": "search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "8b5ac1c3-d595-4fe1-a602-664d5805d9aa",
+    "customerId": "479d19e3-c715-4981-9733-9f5883cb8df4",
+    "event_type": "page_view",
+    "timestamp": "2026-01-01T05:03:41Z",
+    "session_duration_s": 3157,
+    "properties": {
+      "page": "list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "1d6f76fc-1d26-4ea4-a531-4c449716a47f",
+    "customerId": "8403f87c-f59d-49d4-aa24-70447aeadc72",
+    "event_type": "login",
+    "timestamp": "2026-03-29T02:12:27Z",
+    "session_duration_s": 2169,
+    "properties": {
+      "page": "posts/main",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "6af68dcc-2089-419d-891e-5b6b09274b7d",
+    "customerId": "b4a0bbd9-1a09-4bd3-b814-881814f218bc",
+    "event_type": "login",
+    "timestamp": "2026-03-31T13:07:08Z",
+    "session_duration_s": 2818,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7a410525-0d7c-46a7-ac31-c7404df6a07c",
+    "customerId": "85a0522d-cf83-4c3d-894b-3d2388529ab7",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-05T02:01:12Z",
+    "session_duration_s": 1687,
+    "properties": {
+      "page": "categories/tag/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "b70a29db-3064-418b-8cf5-03d1f798e28b",
+    "customerId": "e6780827-d552-4d09-9db1-12af8d19265d",
+    "event_type": "login",
+    "timestamp": "2026-02-03T18:44:07Z",
+    "session_duration_s": 1763,
+    "properties": {
+      "page": "posts",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "685e19f3-d067-4abc-8a78-2c8610b0c746",
+    "customerId": "45d67141-c94d-4b51-87e9-ed6089979627",
+    "event_type": "login",
+    "timestamp": "2026-03-26T09:59:06Z",
+    "session_duration_s": 1005,
+    "properties": {
+      "page": "search/tags/list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "c2e90112-76b4-4a63-8ad2-1ccd26df1400",
+    "customerId": "af96d80c-c69a-4a2f-9b35-92a056626207",
+    "event_type": "login",
+    "timestamp": "2026-01-07T07:25:08Z",
+    "session_duration_s": 327,
+    "properties": {
+      "page": "main/tags/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "76194e9f-8630-4b7e-afd5-c0ea94be0b3b",
+    "customerId": "a0e4cbcd-95bf-488c-bfac-f4413d4117dc",
+    "event_type": "page_view",
+    "timestamp": "2026-03-27T05:06:46Z",
+    "session_duration_s": 2886,
+    "properties": {
+      "page": "tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b3ad9211-0842-4da9-a929-b7c7cc396894",
+    "customerId": "296e0b54-07d1-4a66-8f00-6dc706ac77a3",
+    "event_type": "login",
+    "timestamp": "2026-03-28T03:33:05Z",
+    "session_duration_s": 3544,
+    "properties": {
+      "page": "categories/main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "448b4661-6089-4236-bc31-1696a165e525",
+    "customerId": "7dc3dc77-f1af-4997-adb5-781ddbb9413f",
+    "event_type": "login",
+    "timestamp": "2026-01-22T03:10:00Z",
+    "session_duration_s": 2400,
+    "properties": {
+      "page": "categories/search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "10b2a005-dc3d-46c0-9ad4-492b7b14ca54",
+    "customerId": "006b16f8-8b0a-4fa0-8f81-4022baa25ffd",
+    "event_type": "export",
+    "timestamp": "2026-03-28T03:31:31Z",
+    "session_duration_s": 1966,
+    "properties": {
+      "page": "list/search/wp-content",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ebff59a8-9235-46a6-bae9-8b95f2c721ba",
+    "customerId": "bdc4eec1-8937-4286-8ee9-88230c1e8d3f",
+    "event_type": "page_view",
+    "timestamp": "2026-01-04T18:47:31Z",
+    "session_duration_s": 1228,
+    "properties": {
+      "page": "tag/search/search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "13fa8893-26da-47de-8d3b-3649ba315225",
+    "customerId": "eb6173b0-f346-4728-8379-8fe38cf40374",
+    "event_type": "login",
+    "timestamp": "2026-02-16T13:23:00Z",
+    "session_duration_s": 316,
+    "properties": {
+      "page": "tag/blog/explore",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b46e228b-dca7-4aa9-a0fc-7b52af4d1ad3",
+    "customerId": "0570df1b-366f-404e-ae88-9afc6320daea",
+    "event_type": "export",
+    "timestamp": "2026-01-15T15:29:07Z",
+    "session_duration_s": 340,
+    "properties": {
+      "page": "categories/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "3614a750-873e-48c2-9d4c-f5ad03de7433",
+    "customerId": "5281ba0e-995f-406b-9fe0-27208d4dfbc7",
+    "event_type": "page_view",
+    "timestamp": "2026-02-05T03:43:41Z",
+    "session_duration_s": 911,
+    "properties": {
+      "page": "search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "a342bf1a-f8b8-473e-aef6-2a78c9720b5c",
+    "customerId": "5fabcf64-fd26-4d33-92a4-729cc3e0ee49",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-15T22:33:47Z",
+    "session_duration_s": 3212,
+    "properties": {
+      "page": "category",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b80c4ddd-71ad-4185-8252-0feba4247dc4",
+    "customerId": "e00635b4-124f-4927-a7a5-ab6a3d94c224",
+    "event_type": "page_view",
+    "timestamp": "2026-03-06T05:37:59Z",
+    "session_duration_s": 609,
+    "properties": {
+      "page": "explore/categories",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "cbe9f924-b6d4-4e01-867a-45a54f6f9465",
+    "customerId": "6b26f57a-2fb0-469b-8612-f5882ecbea54",
+    "event_type": "login",
+    "timestamp": "2026-03-20T00:22:50Z",
+    "session_duration_s": 2076,
+    "properties": {
+      "page": "list",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "b45ceca5-0628-4e1b-80fb-d61edaae7349",
+    "customerId": "4e555f38-18b3-468c-9cab-df8a91984c22",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-19T13:53:31Z",
+    "session_duration_s": 3583,
+    "properties": {
+      "page": "category/tag/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "29f6fad2-8897-41d6-8747-d5e95e5b3b93",
+    "customerId": "346e4632-836c-4763-aee5-ed3e6769bbe2",
+    "event_type": "login",
+    "timestamp": "2026-01-18T17:46:56Z",
+    "session_duration_s": 2105,
+    "properties": {
+      "page": "app/wp-content/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "cf8de579-83f8-428c-8f69-692aa5af7327",
+    "customerId": "a47dec04-58a9-4cd1-8fe8-5a47bd4bb4df",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-18T02:58:51Z",
+    "session_duration_s": 1715,
+    "properties": {
+      "page": "main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "fd91b63a-39a5-4a0e-80a1-5e69017f2ec9",
+    "customerId": "163753ec-286f-46ee-bee7-02181dfc0742",
+    "event_type": "page_view",
+    "timestamp": "2026-02-01T01:48:59Z",
+    "session_duration_s": 1193,
+    "properties": {
+      "page": "category",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "70e2938d-e167-49cf-a93d-597bebc84293",
+    "customerId": "08680691-66a2-458f-821e-372f3b7aa0f3",
+    "event_type": "export",
+    "timestamp": "2026-02-07T10:13:47Z",
+    "session_duration_s": 2163,
+    "properties": {
+      "page": "main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "28725af0-30cf-4a22-b731-bf4cb57064a5",
+    "customerId": "367e4340-eb4d-4adf-9d1b-d7b84ad00ea5",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-28T06:16:55Z",
+    "session_duration_s": 33,
+    "properties": {
+      "page": "wp-content/blog/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "462e4a8b-3bea-4f0d-ab8d-fffebf35d0fd",
+    "customerId": "3af4cd06-b1e6-4e4c-9de2-e7a1cd3c059f",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-04T11:56:13Z",
+    "session_duration_s": 2778,
+    "properties": {
+      "page": "tags",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ee1e8d77-a533-4abd-91bb-9623f486f297",
+    "customerId": "f511284b-5ad0-4c9b-bd7d-67ac56a4c296",
+    "event_type": "login",
+    "timestamp": "2026-03-16T11:12:01Z",
+    "session_duration_s": 518,
+    "properties": {
+      "page": "explore/wp-content/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "da8e4f00-1ea4-45f7-b4d4-0b3b4aceb2e2",
+    "customerId": "f0311a0c-81ba-4429-bc39-a4bf5f57ff56",
+    "event_type": "export",
+    "timestamp": "2026-01-28T16:53:22Z",
+    "session_duration_s": 2759,
+    "properties": {
+      "page": "categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "5ebdadaa-fe2f-4fc9-a20c-c3f733d2de2d",
+    "customerId": "e7a7a9d3-7c25-44af-b985-9cae027ae090",
+    "event_type": "feature_click",
+    "timestamp": "2026-03-26T08:17:35Z",
+    "session_duration_s": 2030,
+    "properties": {
+      "page": "tags/main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "bef64a3c-deea-4d16-8b30-111736567f06",
+    "customerId": "16f20a56-7de7-43ef-9641-ca8cee8e75ef",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-13T09:40:44Z",
+    "session_duration_s": 1257,
+    "properties": {
+      "page": "app/blog/app",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3edab427-f718-490d-89eb-8f16824562be",
+    "customerId": "addda29f-4e6e-48d1-8b39-a41a761e7886",
+    "event_type": "page_view",
+    "timestamp": "2026-01-06T10:01:07Z",
+    "session_duration_s": 2860,
+    "properties": {
+      "page": "blog/tags",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "2fd2a698-e813-49c4-a43e-ee6d7256bfc7",
+    "customerId": "bc0917e7-22a5-46f9-b347-309d34aa3c3a",
+    "event_type": "page_view",
+    "timestamp": "2026-01-19T20:46:06Z",
+    "session_duration_s": 2518,
+    "properties": {
+      "page": "main",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "e552c998-9711-47e3-a048-69c2d3c2d3fb",
+    "customerId": "d1e62666-86ea-46b0-8271-602c6bca0f78",
+    "event_type": "export",
+    "timestamp": "2026-02-27T15:03:49Z",
+    "session_duration_s": 2557,
+    "properties": {
+      "page": "categories/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a6b450a4-0cae-495f-b67f-44fd77c95a43",
+    "customerId": "beb934fd-0187-4e23-b15b-e76750d7127f",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-27T21:21:07Z",
+    "session_duration_s": 360,
+    "properties": {
+      "page": "list",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "3158c6c9-8aaa-4d50-a539-32d2e7f9d701",
+    "customerId": "0fe3aef3-1bed-42b4-8cc2-ed00ed689c93",
+    "event_type": "page_view",
+    "timestamp": "2026-01-21T20:29:43Z",
+    "session_duration_s": 3396,
+    "properties": {
+      "page": "category/blog",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "c314449f-41b9-496f-9927-0314284d8e70",
+    "customerId": "cec6a786-1970-4104-a7db-4fe4b6bce064",
+    "event_type": "page_view",
+    "timestamp": "2026-01-13T05:57:50Z",
+    "session_duration_s": 1942,
+    "properties": {
+      "page": "search",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "454a4813-74ce-408d-8fc8-7410f8f39e60",
+    "customerId": "045bf183-25a0-4b0d-9e04-1172ae1b18b6",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-23T00:37:50Z",
+    "session_duration_s": 2394,
+    "properties": {
+      "page": "categories/explore/explore",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "59c753bb-b5da-498f-9f25-7418c0c4a986",
+    "customerId": "0f01843c-273c-421c-9d8c-4d4f2a5a4677",
+    "event_type": "export",
+    "timestamp": "2026-03-28T06:45:53Z",
+    "session_duration_s": 1892,
+    "properties": {
+      "page": "tags/blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "7dd3e388-b3dc-447d-bd78-4f17b4bbb117",
+    "customerId": "f0abd72e-6899-4b81-a909-ba7662fcd2e8",
+    "event_type": "export",
+    "timestamp": "2026-02-11T07:47:36Z",
+    "session_duration_s": 1648,
+    "properties": {
+      "page": "tags/search",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a065ef94-f7c1-42e0-a118-b7eac4b3c25e",
+    "customerId": "b55b2cfe-ff62-4b4b-a271-849c36815340",
+    "event_type": "page_view",
+    "timestamp": "2026-01-15T04:57:49Z",
+    "session_duration_s": 2392,
+    "properties": {
+      "page": "explore/main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "d22a5d74-c437-4f3d-99c8-f2a3dfa68727",
+    "customerId": "e13f009b-c5d3-4274-b86a-7c7d24cbadfe",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-24T10:44:17Z",
+    "session_duration_s": 2924,
+    "properties": {
+      "page": "app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "7da666f4-35a4-41e6-a926-41522629891e",
+    "customerId": "85422cb3-2919-4390-a851-48f2f9434940",
+    "event_type": "login",
+    "timestamp": "2026-02-06T22:02:38Z",
+    "session_duration_s": 3069,
+    "properties": {
+      "page": "tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "4feb869d-57ed-47bc-b288-27941eb9ca60",
+    "customerId": "c5d5adcb-5e02-4db5-806f-89af7aa489f4",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-08T16:09:12Z",
+    "session_duration_s": 608,
+    "properties": {
+      "page": "blog/list/category",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "3da0d605-3c52-43b2-a4d0-e70c1bd64333",
+    "customerId": "31ff5853-76a8-4d3b-b16d-155aafbbb052",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-11T16:05:34Z",
+    "session_duration_s": 458,
+    "properties": {
+      "page": "tags/search/tags",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "59d7a739-a662-49d3-a52e-0cbe239823b2",
+    "customerId": "0869d9da-2a94-4aa6-9b8f-ffcf6e54e803",
+    "event_type": "login",
+    "timestamp": "2026-03-11T21:52:46Z",
+    "session_duration_s": 1392,
+    "properties": {
+      "page": "tag/app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "f136d269-81c5-4229-ad30-24c5441f8f13",
+    "customerId": "90e75c65-e890-417a-abab-e7498b313d11",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-22T05:44:20Z",
+    "session_duration_s": 3064,
+    "properties": {
+      "page": "wp-content",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "765bbf49-e920-4a1f-a4f0-330299c65165",
+    "customerId": "023a99b8-51d2-4ea4-8b71-240396026ddd",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-02-18T22:09:14Z",
+    "session_duration_s": 1669,
+    "properties": {
+      "page": "posts/tag/wp-content",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "c74ff7a2-d86a-4ae5-a322-2dda76c773ec",
+    "customerId": "284f9eeb-d814-438f-9af6-36e8e133caa1",
+    "event_type": "page_view",
+    "timestamp": "2026-03-17T19:57:27Z",
+    "session_duration_s": 3325,
+    "properties": {
+      "page": "search",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "04884ddb-9c86-418a-aabd-0825bbee196b",
+    "customerId": "d95fd9db-83b9-46d9-be6e-c6215570b51e",
+    "event_type": "page_view",
+    "timestamp": "2026-03-01T14:22:45Z",
+    "session_duration_s": 3181,
+    "properties": {
+      "page": "posts/tag",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "a1623ca9-8a6b-426b-b1a7-942fcd809821",
+    "customerId": "0acfa1f0-2e86-4f14-a701-4528d9b5da37",
+    "event_type": "export",
+    "timestamp": "2026-02-02T14:04:30Z",
+    "session_duration_s": 478,
+    "properties": {
+      "page": "posts/wp-content/app",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "0d87231f-a612-48b9-be67-b9949b157af5",
+    "customerId": "dbb5592a-bd00-4241-bc89-50b87bac2075",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-21T21:26:47Z",
+    "session_duration_s": 3598,
+    "properties": {
+      "page": "app",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "53743b40-82f0-40a5-a861-09e3d11de1f4",
+    "customerId": "2b47d5cd-8ff5-4a28-b68b-97d1092d601d",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-04T23:02:52Z",
+    "session_duration_s": 3557,
+    "properties": {
+      "page": "categories",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "9ac14f79-2134-4372-bb55-6be8169ee556",
+    "customerId": "c37345db-c36d-4a72-9f30-508b856f75d1",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-23T04:07:14Z",
+    "session_duration_s": 1031,
+    "properties": {
+      "page": "tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "3590c86f-c154-415a-bcd2-931528c20d23",
+    "customerId": "9f3671fa-32ee-4c5b-8ba3-0d131fe3fbc4",
+    "event_type": "export",
+    "timestamp": "2026-02-23T16:49:51Z",
+    "session_duration_s": 2931,
+    "properties": {
+      "page": "categories",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "1d08a4be-f5f7-406d-82ca-719a66d2b6a8",
+    "customerId": "8b3742d0-8272-4a7b-a18e-6559ae79b153",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-14T22:45:59Z",
+    "session_duration_s": 2775,
+    "properties": {
+      "page": "app/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "637196d3-0d1b-4d5a-a920-855c1bb5025c",
+    "customerId": "af7f65a0-b806-4cd0-8c54-d645b7652b65",
+    "event_type": "login",
+    "timestamp": "2026-02-22T04:58:52Z",
+    "session_duration_s": 670,
+    "properties": {
+      "page": "main/app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "ec29e73a-1b07-45dc-bece-c074a4f779b6",
+    "customerId": "25f7ddaf-f124-44e3-9641-8e70ca6c2f1b",
+    "event_type": "page_view",
+    "timestamp": "2026-03-20T09:16:13Z",
+    "session_duration_s": 1701,
+    "properties": {
+      "page": "category/categories/tag",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "fe158bdc-7105-40fe-a81e-c59b5467fc29",
+    "customerId": "1a273dc7-0dcf-4f3f-bc5a-caa2e63a65db",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-31T10:36:33Z",
+    "session_duration_s": 606,
+    "properties": {
+      "page": "tag",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "a3f02a70-25e6-4ff6-8675-f303ec42a928",
+    "customerId": "9d59b65f-c54e-43a9-ba72-4152ddf09d86",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-03-22T04:27:01Z",
+    "session_duration_s": 299,
+    "properties": {
+      "page": "app",
+      "browser": null
+    }
+  },
+  {
+    "event_id": "7e772cc8-3ada-4bb8-b672-762edfc542f1",
+    "customerId": "5ff23ee8-b413-491c-9caa-ecce358f7e48",
+    "event_type": "login",
+    "timestamp": "2026-01-22T05:10:24Z",
+    "session_duration_s": 3302,
+    "properties": {
+      "page": "tags/search",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "ec0e88bf-8621-4323-9423-7d1e0589c520",
+    "customerId": "6601491e-7aa0-460a-bde9-8782e3034635",
+    "event_type": "login",
+    "timestamp": "2026-03-26T14:24:45Z",
+    "session_duration_s": 1105,
+    "properties": {
+      "page": "explore",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "8e72ba6e-4981-40f4-8b9e-031269f2184d",
+    "customerId": "aff2048f-88c7-41d2-a8b2-9955d08be1a1",
+    "event_type": "feature_click",
+    "timestamp": "2026-02-11T16:35:11Z",
+    "session_duration_s": 3016,
+    "properties": {
+      "page": "blog",
+      "browser": "Chrome"
+    }
+  },
+  {
+    "event_id": "999598f0-4e3c-4acc-9ba6-289bb39c12e6",
+    "customerId": "cdf2bec6-0776-4b90-befa-9f48eeb7e6e2",
+    "event_type": "feature_click",
+    "timestamp": "2026-01-17T00:00:59Z",
+    "session_duration_s": 90,
+    "properties": {
+      "page": "app/main/main",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "2bcb010a-7f41-4872-ada1-1fa18ff3a92c",
+    "customerId": "b72b91c7-ce1b-4b06-b357-b22b143509eb",
+    "event_type": "page_view",
+    "timestamp": "2026-01-09T02:13:07Z",
+    "session_duration_s": 1548,
+    "properties": {
+      "page": "wp-content/list",
+      "browser": "Safari"
+    }
+  },
+  {
+    "event_id": "5ac97df7-3aea-41bd-8edc-00e891389a15",
+    "customerId": "4a901085-fd2a-43de-8e48-3ad9b462cd84",
+    "event_type": "upgrade_prompt",
+    "timestamp": "2026-01-30T03:11:33Z",
+    "session_duration_s": 2342,
+    "properties": {
+      "page": "tag",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "6096ba24-bfde-40ad-b397-af4dbb93c112",
+    "customerId": "f04787a0-d9ec-4355-aac2-aa76539930fb",
+    "event_type": "login",
+    "timestamp": "2026-02-10T15:41:25Z",
+    "session_duration_s": 3486,
+    "properties": {
+      "page": "tags/category",
+      "browser": "Firefox"
+    }
+  },
+  {
+    "event_id": "d9b07ea5-cc49-4fbc-8f04-4fe67bc665b2",
+    "customerId": "7fc7ece4-dfdc-4565-838e-148e97816090",
+    "event_type": "export",
+    "timestamp": "2026-03-09T16:15:32Z",
+    "session_duration_s": 1101,
+    "properties": {
+      "page": "tags/blog/tag",
+      "browser": null
+    }
+  }
+]
