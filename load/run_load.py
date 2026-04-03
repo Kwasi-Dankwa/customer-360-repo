@@ -4,6 +4,7 @@ from ingestion.ingest_csv import ingest_crm_csv
 from ingestion.ingest_events import ingest_usage_events
 from transform.normalise import build_customer_profiles, normalise_events
 from load.warehouse import get_engine, create_tables, load_profiles, load_events
+from quality.checks import run_quality_checks
 
 if __name__ == "__main__":
     try:
@@ -24,6 +25,9 @@ if __name__ == "__main__":
         create_tables(engine)
         load_profiles(profiles, engine)
         load_events(events, engine)
+
+        # Quality checks
+        run_quality_checks(profiles, events, engine)
 
         print("\n✓ Pipeline complete — data landed in PostgreSQL")
 
