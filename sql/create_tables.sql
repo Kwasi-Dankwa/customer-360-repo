@@ -19,6 +19,5 @@ CREATE TABLE IF NOT EXISTS fact_user_activity (
     event_date          DATE,
     session_duration_s  INTEGER,
     source              VARCHAR(50),
-    loaded_at           TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (customer_key) REFERENCES dim_customers(customer_key)
+    loaded_at           TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
