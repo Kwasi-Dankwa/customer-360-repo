@@ -29,7 +29,7 @@ def load_profiles(df: pd.DataFrame, engine):
     df.to_sql(
         "dim_customers",
         engine,
-        if_exists="append",
+        if_exists="replace",
         index=False,
         method="multi"
     )
@@ -41,8 +41,9 @@ def load_events(df: pd.DataFrame, engine):
     df_renamed.to_sql(
         "fact_user_activity",
         engine,
-        if_exists="append",
+        if_exists="replace",
         index=False,
         method="multi"
     )
     print(f"✓ Loaded {len(df_renamed)} records into fact_user_activity")
+
