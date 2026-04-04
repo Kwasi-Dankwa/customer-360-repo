@@ -6,6 +6,7 @@ This project simulates a real-world data engineering challenge: a company runnin
 Built to demonstrate core data integration competencies: schema normalisation, ETL pipeline design, star schema modelling, data quality validation, and batch orchestration.
 
 # Architecture
+![Pipeline architecture](docs/architecture.png)
 
 # Data Modelling
 
