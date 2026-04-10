@@ -94,6 +94,6 @@ Quality checks run automatically after each pipeline execution and log results t
 | Null % on email          | dim_customers       | ≤ 20%             |
 | Null % on event_type     | fact_user_activity  | ≤ 20%             |
 
-# Interview Notes
+# Notes
 This project was built to demonstrate production-aware data engineering thinking, not just tool familiarity. Design decisions include choosing batch over streaming for an analytics use case where daily freshness is sufficient, removing the foreign key constraint on the fact table to handle late-arriving event data gracefully, and building the quality layer as a first-class pipeline component rather than an afterthought.
 
